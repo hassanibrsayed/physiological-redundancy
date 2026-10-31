@@ -1,0 +1,2689 @@
+detector,case,target,mag,profile,cost,cheapest_set
+Redundancy,10,BP,0.25,drift_60s,1.0,ART
+Redundancy,16,BP,0.25,drift_60s,1.0,ART
+Redundancy,17,BP,0.25,drift_60s,1.0,ART
+Redundancy,19,BP,0.25,drift_60s,1.0,ART
+Redundancy,29,BP,0.25,drift_60s,1.0,ART
+Redundancy,34,BP,0.25,drift_60s,1.0,ART
+Redundancy,55,BP,0.25,drift_60s,1.0,ART
+Redundancy,60,BP,0.25,drift_60s,1.0,ART
+Learned,10,BP,0.25,drift_60s,1.0,ART
+Learned,16,BP,0.25,drift_60s,1.0,ART
+Learned,17,BP,0.25,drift_60s,1.0,ART
+Learned,19,BP,0.25,drift_60s,1.0,ART
+Learned,29,BP,0.25,drift_60s,1.0,ART
+Learned,34,BP,0.25,drift_60s,1.0,ART
+Learned,55,BP,0.25,drift_60s,1.0,ART
+Learned,60,BP,0.25,drift_60s,1.0,ART
+Combined,10,BP,0.25,drift_60s,1.0,ART
+Combined,16,BP,0.25,drift_60s,1.0,ART
+Combined,17,BP,0.25,drift_60s,1.0,ART
+Combined,19,BP,0.25,drift_60s,1.0,ART
+Combined,29,BP,0.25,drift_60s,1.0,ART
+Combined,34,BP,0.25,drift_60s,1.0,ART
+Combined,55,BP,0.25,drift_60s,1.0,ART
+Combined,60,BP,0.25,drift_60s,1.0,ART
+IF (all ch),10,BP,0.25,drift_60s,1.0,ART
+IF (all ch),16,BP,0.25,drift_60s,1.0,ART
+IF (all ch),17,BP,0.25,drift_60s,1.0,ART
+IF (all ch),19,BP,0.25,drift_60s,1.0,ART
+IF (all ch),29,BP,0.25,drift_60s,1.0,ART
+IF (all ch),34,BP,0.25,drift_60s,1.0,ART
+IF (all ch),55,BP,0.25,drift_60s,1.0,ART
+IF (all ch),60,BP,0.25,drift_60s,1.0,ART
+Autoencoder,10,BP,0.25,drift_60s,1.0,ART
+Autoencoder,16,BP,0.25,drift_60s,1.0,ART
+Autoencoder,17,BP,0.25,drift_60s,1.0,ART
+Autoencoder,19,BP,0.25,drift_60s,1.0,ART
+Autoencoder,29,BP,0.25,drift_60s,1.0,ART
+Autoencoder,34,BP,0.25,drift_60s,1.0,ART
+Autoencoder,55,BP,0.25,drift_60s,1.0,ART
+Autoencoder,60,BP,0.25,drift_60s,1.0,ART
+LSTM,10,BP,0.25,drift_60s,1.0,ART
+LSTM,16,BP,0.25,drift_60s,1.0,ART
+LSTM,17,BP,0.25,drift_60s,1.0,ART
+LSTM,19,BP,0.25,drift_60s,1.0,ART
+LSTM,29,BP,0.25,drift_60s,1.0,ART
+LSTM,34,BP,0.25,drift_60s,1.0,ART
+LSTM,55,BP,0.25,drift_60s,1.0,ART
+LSTM,60,BP,0.25,drift_60s,1.0,ART
+Redundancy,10,BP,0.25,ramp_10s,1.0,ART
+Redundancy,16,BP,0.25,ramp_10s,1.0,ART
+Redundancy,17,BP,0.25,ramp_10s,2.0,ART+EV1000
+Redundancy,19,BP,0.25,ramp_10s,1.0,ART
+Redundancy,29,BP,0.25,ramp_10s,1.0,ART
+Redundancy,34,BP,0.25,ramp_10s,1.0,ART
+Redundancy,55,BP,0.25,ramp_10s,1.0,ART
+Redundancy,60,BP,0.25,ramp_10s,1.0,ART
+Learned,10,BP,0.25,ramp_10s,1.0,ART
+Learned,16,BP,0.25,ramp_10s,1.0,ART
+Learned,17,BP,0.25,ramp_10s,1.0,ART
+Learned,19,BP,0.25,ramp_10s,1.0,ART
+Learned,29,BP,0.25,ramp_10s,1.0,ART
+Learned,34,BP,0.25,ramp_10s,1.0,ART
+Learned,55,BP,0.25,ramp_10s,1.0,ART
+Learned,60,BP,0.25,ramp_10s,1.0,ART
+Combined,10,BP,0.25,ramp_10s,1.0,ART
+Combined,16,BP,0.25,ramp_10s,1.0,ART
+Combined,17,BP,0.25,ramp_10s,1.0,ART
+Combined,19,BP,0.25,ramp_10s,1.0,ART
+Combined,29,BP,0.25,ramp_10s,1.0,ART
+Combined,34,BP,0.25,ramp_10s,1.0,ART
+Combined,55,BP,0.25,ramp_10s,1.0,ART
+Combined,60,BP,0.25,ramp_10s,1.0,ART
+IF (all ch),10,BP,0.25,ramp_10s,1.0,ART
+IF (all ch),16,BP,0.25,ramp_10s,1.0,ART
+IF (all ch),17,BP,0.25,ramp_10s,1.0,ART
+IF (all ch),19,BP,0.25,ramp_10s,1.0,ART
+IF (all ch),29,BP,0.25,ramp_10s,1.0,ART
+IF (all ch),34,BP,0.25,ramp_10s,1.0,ART
+IF (all ch),55,BP,0.25,ramp_10s,1.0,ART
+IF (all ch),60,BP,0.25,ramp_10s,1.0,ART
+Autoencoder,10,BP,0.25,ramp_10s,1.0,ART
+Autoencoder,16,BP,0.25,ramp_10s,1.0,ART
+Autoencoder,17,BP,0.25,ramp_10s,1.0,ART
+Autoencoder,19,BP,0.25,ramp_10s,1.0,ART
+Autoencoder,29,BP,0.25,ramp_10s,1.0,ART
+Autoencoder,34,BP,0.25,ramp_10s,1.0,ART
+Autoencoder,55,BP,0.25,ramp_10s,1.0,ART
+Autoencoder,60,BP,0.25,ramp_10s,1.0,ART
+LSTM,10,BP,0.25,ramp_10s,1.0,ART
+LSTM,16,BP,0.25,ramp_10s,1.0,ART
+LSTM,17,BP,0.25,ramp_10s,1.0,ART
+LSTM,19,BP,0.25,ramp_10s,1.0,ART
+LSTM,29,BP,0.25,ramp_10s,1.0,ART
+LSTM,34,BP,0.25,ramp_10s,1.0,ART
+LSTM,55,BP,0.25,ramp_10s,1.0,ART
+LSTM,60,BP,0.25,ramp_10s,1.0,ART
+Redundancy,10,BP,0.25,step,1.0,ART
+Redundancy,16,BP,0.25,step,1.0,ART
+Redundancy,17,BP,0.25,step,2.0,ART+EV1000
+Redundancy,19,BP,0.25,step,1.0,ART
+Redundancy,29,BP,0.25,step,1.0,ART
+Redundancy,34,BP,0.25,step,1.0,ART
+Redundancy,55,BP,0.25,step,1.0,ART
+Redundancy,60,BP,0.25,step,,
+Learned,10,BP,0.25,step,1.0,ART
+Learned,16,BP,0.25,step,1.0,ART
+Learned,17,BP,0.25,step,1.0,ART
+Learned,19,BP,0.25,step,1.0,ART
+Learned,29,BP,0.25,step,1.0,ART
+Learned,34,BP,0.25,step,1.0,ART
+Learned,55,BP,0.25,step,1.0,ART
+Learned,60,BP,0.25,step,1.0,ART
+Combined,10,BP,0.25,step,1.0,ART
+Combined,16,BP,0.25,step,1.0,ART
+Combined,17,BP,0.25,step,1.0,ART
+Combined,19,BP,0.25,step,1.0,ART
+Combined,29,BP,0.25,step,1.0,ART
+Combined,34,BP,0.25,step,1.0,ART
+Combined,55,BP,0.25,step,1.0,ART
+Combined,60,BP,0.25,step,1.0,ART
+IF (all ch),10,BP,0.25,step,1.0,ART
+IF (all ch),16,BP,0.25,step,1.0,ART
+IF (all ch),17,BP,0.25,step,1.0,ART
+IF (all ch),19,BP,0.25,step,1.0,ART
+IF (all ch),29,BP,0.25,step,1.0,ART
+IF (all ch),34,BP,0.25,step,1.0,ART
+IF (all ch),55,BP,0.25,step,1.0,ART
+IF (all ch),60,BP,0.25,step,1.0,ART
+Autoencoder,10,BP,0.25,step,1.0,ART
+Autoencoder,16,BP,0.25,step,1.0,ART
+Autoencoder,17,BP,0.25,step,1.0,ART
+Autoencoder,19,BP,0.25,step,1.0,ART
+Autoencoder,29,BP,0.25,step,1.0,ART
+Autoencoder,34,BP,0.25,step,1.0,ART
+Autoencoder,55,BP,0.25,step,1.0,ART
+Autoencoder,60,BP,0.25,step,1.0,ART
+LSTM,10,BP,0.25,step,1.0,ART
+LSTM,16,BP,0.25,step,1.0,ART
+LSTM,17,BP,0.25,step,1.0,ART
+LSTM,19,BP,0.25,step,1.0,ART
+LSTM,29,BP,0.25,step,1.0,ART
+LSTM,34,BP,0.25,step,1.0,ART
+LSTM,55,BP,0.25,step,1.0,ART
+LSTM,60,BP,0.25,step,1.0,ART
+Redundancy,10,BP,0.5,drift_60s,1.0,ART
+Redundancy,16,BP,0.5,drift_60s,,
+Redundancy,17,BP,0.5,drift_60s,2.0,ART+EV1000
+Redundancy,19,BP,0.5,drift_60s,2.0,ART+EV1000
+Redundancy,29,BP,0.5,drift_60s,1.0,ART
+Redundancy,34,BP,0.5,drift_60s,1.0,ART
+Redundancy,55,BP,0.5,drift_60s,1.0,ART
+Redundancy,60,BP,0.5,drift_60s,1.0,ART
+Learned,10,BP,0.5,drift_60s,1.0,ART
+Learned,16,BP,0.5,drift_60s,1.0,ART
+Learned,17,BP,0.5,drift_60s,1.0,ART
+Learned,19,BP,0.5,drift_60s,1.0,ART
+Learned,29,BP,0.5,drift_60s,1.0,ART
+Learned,34,BP,0.5,drift_60s,1.0,ART
+Learned,55,BP,0.5,drift_60s,1.0,ART
+Learned,60,BP,0.5,drift_60s,1.0,ART
+Combined,10,BP,0.5,drift_60s,1.0,ART
+Combined,16,BP,0.5,drift_60s,1.0,ART
+Combined,17,BP,0.5,drift_60s,1.0,ART
+Combined,19,BP,0.5,drift_60s,1.0,ART
+Combined,29,BP,0.5,drift_60s,1.0,ART
+Combined,34,BP,0.5,drift_60s,1.0,ART
+Combined,55,BP,0.5,drift_60s,1.0,ART
+Combined,60,BP,0.5,drift_60s,1.0,ART
+IF (all ch),10,BP,0.5,drift_60s,1.0,ART
+IF (all ch),16,BP,0.5,drift_60s,1.0,ART
+IF (all ch),17,BP,0.5,drift_60s,1.0,ART
+IF (all ch),19,BP,0.5,drift_60s,1.0,ART
+IF (all ch),29,BP,0.5,drift_60s,1.0,ART
+IF (all ch),34,BP,0.5,drift_60s,1.0,ART
+IF (all ch),55,BP,0.5,drift_60s,1.0,ART
+IF (all ch),60,BP,0.5,drift_60s,1.0,ART
+Autoencoder,10,BP,0.5,drift_60s,1.0,ART
+Autoencoder,16,BP,0.5,drift_60s,1.0,ART
+Autoencoder,17,BP,0.5,drift_60s,1.0,ART
+Autoencoder,19,BP,0.5,drift_60s,1.0,ART
+Autoencoder,29,BP,0.5,drift_60s,1.0,ART
+Autoencoder,34,BP,0.5,drift_60s,1.0,ART
+Autoencoder,55,BP,0.5,drift_60s,1.0,ART
+Autoencoder,60,BP,0.5,drift_60s,1.0,ART
+LSTM,10,BP,0.5,drift_60s,1.0,ART
+LSTM,16,BP,0.5,drift_60s,1.0,ART
+LSTM,17,BP,0.5,drift_60s,1.0,ART
+LSTM,19,BP,0.5,drift_60s,1.0,ART
+LSTM,29,BP,0.5,drift_60s,1.0,ART
+LSTM,34,BP,0.5,drift_60s,1.0,ART
+LSTM,55,BP,0.5,drift_60s,1.0,ART
+LSTM,60,BP,0.5,drift_60s,1.0,ART
+Redundancy,10,BP,0.5,ramp_10s,1.0,ART
+Redundancy,16,BP,0.5,ramp_10s,,
+Redundancy,17,BP,0.5,ramp_10s,2.0,ART+EV1000
+Redundancy,19,BP,0.5,ramp_10s,2.0,ART+EV1000
+Redundancy,29,BP,0.5,ramp_10s,1.0,ART
+Redundancy,34,BP,0.5,ramp_10s,1.0,ART
+Redundancy,55,BP,0.5,ramp_10s,1.0,ART
+Redundancy,60,BP,0.5,ramp_10s,2.0,ART+EV1000
+Learned,10,BP,0.5,ramp_10s,1.0,ART
+Learned,16,BP,0.5,ramp_10s,1.0,ART
+Learned,17,BP,0.5,ramp_10s,1.0,ART
+Learned,19,BP,0.5,ramp_10s,1.0,ART
+Learned,29,BP,0.5,ramp_10s,1.0,ART
+Learned,34,BP,0.5,ramp_10s,1.0,ART
+Learned,55,BP,0.5,ramp_10s,1.0,ART
+Learned,60,BP,0.5,ramp_10s,1.0,ART
+Combined,10,BP,0.5,ramp_10s,1.0,ART
+Combined,16,BP,0.5,ramp_10s,1.0,ART
+Combined,17,BP,0.5,ramp_10s,1.0,ART
+Combined,19,BP,0.5,ramp_10s,1.0,ART
+Combined,29,BP,0.5,ramp_10s,1.0,ART
+Combined,34,BP,0.5,ramp_10s,1.0,ART
+Combined,55,BP,0.5,ramp_10s,1.0,ART
+Combined,60,BP,0.5,ramp_10s,1.0,ART
+IF (all ch),10,BP,0.5,ramp_10s,1.0,ART
+IF (all ch),16,BP,0.5,ramp_10s,1.0,ART
+IF (all ch),17,BP,0.5,ramp_10s,1.0,ART
+IF (all ch),19,BP,0.5,ramp_10s,1.0,ART
+IF (all ch),29,BP,0.5,ramp_10s,1.0,ART
+IF (all ch),34,BP,0.5,ramp_10s,1.0,ART
+IF (all ch),55,BP,0.5,ramp_10s,1.0,ART
+IF (all ch),60,BP,0.5,ramp_10s,1.0,ART
+Autoencoder,10,BP,0.5,ramp_10s,1.0,ART
+Autoencoder,16,BP,0.5,ramp_10s,1.0,ART
+Autoencoder,17,BP,0.5,ramp_10s,1.0,ART
+Autoencoder,19,BP,0.5,ramp_10s,1.0,ART
+Autoencoder,29,BP,0.5,ramp_10s,1.0,ART
+Autoencoder,34,BP,0.5,ramp_10s,1.0,ART
+Autoencoder,55,BP,0.5,ramp_10s,1.0,ART
+Autoencoder,60,BP,0.5,ramp_10s,1.0,ART
+LSTM,10,BP,0.5,ramp_10s,1.0,ART
+LSTM,16,BP,0.5,ramp_10s,1.0,ART
+LSTM,17,BP,0.5,ramp_10s,1.0,ART
+LSTM,19,BP,0.5,ramp_10s,1.0,ART
+LSTM,29,BP,0.5,ramp_10s,1.0,ART
+LSTM,34,BP,0.5,ramp_10s,1.0,ART
+LSTM,55,BP,0.5,ramp_10s,1.0,ART
+LSTM,60,BP,0.5,ramp_10s,1.0,ART
+Redundancy,10,BP,0.5,step,1.0,ART
+Redundancy,16,BP,0.5,step,,
+Redundancy,17,BP,0.5,step,2.0,ART+EV1000
+Redundancy,19,BP,0.5,step,,
+Redundancy,29,BP,0.5,step,,
+Redundancy,34,BP,0.5,step,1.0,ART
+Redundancy,55,BP,0.5,step,1.0,ART
+Redundancy,60,BP,0.5,step,,
+Learned,10,BP,0.5,step,1.0,ART
+Learned,16,BP,0.5,step,1.0,ART
+Learned,17,BP,0.5,step,1.0,ART
+Learned,19,BP,0.5,step,1.0,ART
+Learned,29,BP,0.5,step,1.0,ART
+Learned,34,BP,0.5,step,1.0,ART
+Learned,55,BP,0.5,step,1.0,ART
+Learned,60,BP,0.5,step,1.0,ART
+Combined,10,BP,0.5,step,1.0,ART
+Combined,16,BP,0.5,step,1.0,ART
+Combined,17,BP,0.5,step,1.0,ART
+Combined,19,BP,0.5,step,1.0,ART
+Combined,29,BP,0.5,step,,
+Combined,34,BP,0.5,step,1.0,ART
+Combined,55,BP,0.5,step,1.0,ART
+Combined,60,BP,0.5,step,1.0,ART
+IF (all ch),10,BP,0.5,step,1.0,ART
+IF (all ch),16,BP,0.5,step,1.0,ART
+IF (all ch),17,BP,0.5,step,1.0,ART
+IF (all ch),19,BP,0.5,step,1.0,ART
+IF (all ch),29,BP,0.5,step,1.0,ART
+IF (all ch),34,BP,0.5,step,1.0,ART
+IF (all ch),55,BP,0.5,step,1.0,ART
+IF (all ch),60,BP,0.5,step,1.0,ART
+Autoencoder,10,BP,0.5,step,1.0,ART
+Autoencoder,16,BP,0.5,step,1.0,ART
+Autoencoder,17,BP,0.5,step,1.0,ART
+Autoencoder,19,BP,0.5,step,1.0,ART
+Autoencoder,29,BP,0.5,step,1.0,ART
+Autoencoder,34,BP,0.5,step,1.0,ART
+Autoencoder,55,BP,0.5,step,1.0,ART
+Autoencoder,60,BP,0.5,step,1.0,ART
+LSTM,10,BP,0.5,step,1.0,ART
+LSTM,16,BP,0.5,step,1.0,ART
+LSTM,17,BP,0.5,step,1.0,ART
+LSTM,19,BP,0.5,step,1.0,ART
+LSTM,29,BP,0.5,step,1.0,ART
+LSTM,34,BP,0.5,step,1.0,ART
+LSTM,55,BP,0.5,step,1.0,ART
+LSTM,60,BP,0.5,step,1.0,ART
+Redundancy,10,BP,1.0,drift_60s,1.0,ART
+Redundancy,16,BP,1.0,drift_60s,1.0,ART
+Redundancy,17,BP,1.0,drift_60s,2.0,ART+EV1000
+Redundancy,19,BP,1.0,drift_60s,2.0,ART+EV1000
+Redundancy,29,BP,1.0,drift_60s,1.0,ART
+Redundancy,34,BP,1.0,drift_60s,1.0,ART
+Redundancy,55,BP,1.0,drift_60s,1.0,ART
+Redundancy,60,BP,1.0,drift_60s,2.0,ART+EV1000
+Learned,10,BP,1.0,drift_60s,1.0,ART
+Learned,16,BP,1.0,drift_60s,1.0,ART
+Learned,17,BP,1.0,drift_60s,1.0,ART
+Learned,19,BP,1.0,drift_60s,1.0,ART
+Learned,29,BP,1.0,drift_60s,1.0,ART
+Learned,34,BP,1.0,drift_60s,1.0,ART
+Learned,55,BP,1.0,drift_60s,1.0,ART
+Learned,60,BP,1.0,drift_60s,1.0,ART
+Combined,10,BP,1.0,drift_60s,1.0,ART
+Combined,16,BP,1.0,drift_60s,1.0,ART
+Combined,17,BP,1.0,drift_60s,2.0,ART+EV1000
+Combined,19,BP,1.0,drift_60s,1.0,ART
+Combined,29,BP,1.0,drift_60s,1.0,ART
+Combined,34,BP,1.0,drift_60s,1.0,ART
+Combined,55,BP,1.0,drift_60s,,
+Combined,60,BP,1.0,drift_60s,1.0,ART
+IF (all ch),10,BP,1.0,drift_60s,1.0,ART
+IF (all ch),16,BP,1.0,drift_60s,1.0,ART
+IF (all ch),17,BP,1.0,drift_60s,1.0,ART
+IF (all ch),19,BP,1.0,drift_60s,1.0,ART
+IF (all ch),29,BP,1.0,drift_60s,1.0,ART
+IF (all ch),34,BP,1.0,drift_60s,1.0,ART
+IF (all ch),55,BP,1.0,drift_60s,1.0,ART
+IF (all ch),60,BP,1.0,drift_60s,1.0,ART
+Autoencoder,10,BP,1.0,drift_60s,1.0,ART
+Autoencoder,16,BP,1.0,drift_60s,1.0,ART
+Autoencoder,17,BP,1.0,drift_60s,1.0,ART
+Autoencoder,19,BP,1.0,drift_60s,2.0,ART+EV1000
+Autoencoder,29,BP,1.0,drift_60s,1.0,ART
+Autoencoder,34,BP,1.0,drift_60s,1.0,ART
+Autoencoder,55,BP,1.0,drift_60s,1.0,ART
+Autoencoder,60,BP,1.0,drift_60s,1.0,ART
+LSTM,10,BP,1.0,drift_60s,1.0,ART
+LSTM,16,BP,1.0,drift_60s,1.0,ART
+LSTM,17,BP,1.0,drift_60s,1.0,ART
+LSTM,19,BP,1.0,drift_60s,,
+LSTM,29,BP,1.0,drift_60s,1.0,ART
+LSTM,34,BP,1.0,drift_60s,1.0,ART
+LSTM,55,BP,1.0,drift_60s,1.0,ART
+LSTM,60,BP,1.0,drift_60s,1.0,ART
+Redundancy,10,BP,1.0,ramp_10s,1.0,ART
+Redundancy,16,BP,1.0,ramp_10s,2.0,ART+NIBP
+Redundancy,17,BP,1.0,ramp_10s,2.0,ART+EV1000
+Redundancy,19,BP,1.0,ramp_10s,2.0,ART+EV1000
+Redundancy,29,BP,1.0,ramp_10s,2.0,ART+EV1000
+Redundancy,34,BP,1.0,ramp_10s,1.0,ART
+Redundancy,55,BP,1.0,ramp_10s,1.0,ART
+Redundancy,60,BP,1.0,ramp_10s,2.0,ART+EV1000
+Learned,10,BP,1.0,ramp_10s,1.0,ART
+Learned,16,BP,1.0,ramp_10s,1.0,ART
+Learned,17,BP,1.0,ramp_10s,1.0,ART
+Learned,19,BP,1.0,ramp_10s,2.0,ART+EV1000
+Learned,29,BP,1.0,ramp_10s,1.0,ART
+Learned,34,BP,1.0,ramp_10s,1.0,ART
+Learned,55,BP,1.0,ramp_10s,1.0,ART
+Learned,60,BP,1.0,ramp_10s,1.0,ART
+Combined,10,BP,1.0,ramp_10s,1.0,ART
+Combined,16,BP,1.0,ramp_10s,1.0,ART
+Combined,17,BP,1.0,ramp_10s,2.0,ART+EV1000
+Combined,19,BP,1.0,ramp_10s,2.0,ART+EV1000
+Combined,29,BP,1.0,ramp_10s,2.0,ART+EV1000
+Combined,34,BP,1.0,ramp_10s,1.0,ART
+Combined,55,BP,1.0,ramp_10s,1.0,ART
+Combined,60,BP,1.0,ramp_10s,1.0,ART
+IF (all ch),10,BP,1.0,ramp_10s,1.0,ART
+IF (all ch),16,BP,1.0,ramp_10s,1.0,ART
+IF (all ch),17,BP,1.0,ramp_10s,1.0,ART
+IF (all ch),19,BP,1.0,ramp_10s,,
+IF (all ch),29,BP,1.0,ramp_10s,1.0,ART
+IF (all ch),34,BP,1.0,ramp_10s,1.0,ART
+IF (all ch),55,BP,1.0,ramp_10s,1.0,ART
+IF (all ch),60,BP,1.0,ramp_10s,1.0,ART
+Autoencoder,10,BP,1.0,ramp_10s,1.0,ART
+Autoencoder,16,BP,1.0,ramp_10s,1.0,ART
+Autoencoder,17,BP,1.0,ramp_10s,1.0,ART
+Autoencoder,19,BP,1.0,ramp_10s,2.0,ART+EV1000
+Autoencoder,29,BP,1.0,ramp_10s,1.0,ART
+Autoencoder,34,BP,1.0,ramp_10s,1.0,ART
+Autoencoder,55,BP,1.0,ramp_10s,1.0,ART
+Autoencoder,60,BP,1.0,ramp_10s,1.0,ART
+LSTM,10,BP,1.0,ramp_10s,1.0,ART
+LSTM,16,BP,1.0,ramp_10s,1.0,ART
+LSTM,17,BP,1.0,ramp_10s,1.0,ART
+LSTM,19,BP,1.0,ramp_10s,,
+LSTM,29,BP,1.0,ramp_10s,1.0,ART
+LSTM,34,BP,1.0,ramp_10s,1.0,ART
+LSTM,55,BP,1.0,ramp_10s,1.0,ART
+LSTM,60,BP,1.0,ramp_10s,1.0,ART
+Redundancy,10,BP,1.0,step,1.0,ART
+Redundancy,16,BP,1.0,step,,
+Redundancy,17,BP,1.0,step,,
+Redundancy,19,BP,1.0,step,,
+Redundancy,29,BP,1.0,step,,
+Redundancy,34,BP,1.0,step,1.0,ART
+Redundancy,55,BP,1.0,step,,
+Redundancy,60,BP,1.0,step,,
+Learned,10,BP,1.0,step,1.0,ART
+Learned,16,BP,1.0,step,1.0,ART
+Learned,17,BP,1.0,step,1.0,ART
+Learned,19,BP,1.0,step,2.0,ART+EV1000
+Learned,29,BP,1.0,step,2.0,ART+EV1000
+Learned,34,BP,1.0,step,1.0,ART
+Learned,55,BP,1.0,step,1.0,ART
+Learned,60,BP,1.0,step,1.0,ART
+Combined,10,BP,1.0,step,1.0,ART
+Combined,16,BP,1.0,step,1.0,ART
+Combined,17,BP,1.0,step,,
+Combined,19,BP,1.0,step,2.0,ART+EV1000
+Combined,29,BP,1.0,step,,
+Combined,34,BP,1.0,step,1.0,ART
+Combined,55,BP,1.0,step,1.0,ART
+Combined,60,BP,1.0,step,,
+IF (all ch),10,BP,1.0,step,1.0,ART
+IF (all ch),16,BP,1.0,step,1.0,ART
+IF (all ch),17,BP,1.0,step,1.0,ART
+IF (all ch),19,BP,1.0,step,,
+IF (all ch),29,BP,1.0,step,1.0,ART
+IF (all ch),34,BP,1.0,step,1.0,ART
+IF (all ch),55,BP,1.0,step,1.0,ART
+IF (all ch),60,BP,1.0,step,1.0,ART
+Autoencoder,10,BP,1.0,step,1.0,ART
+Autoencoder,16,BP,1.0,step,1.0,ART
+Autoencoder,17,BP,1.0,step,1.0,ART
+Autoencoder,19,BP,1.0,step,,
+Autoencoder,29,BP,1.0,step,1.0,ART
+Autoencoder,34,BP,1.0,step,1.0,ART
+Autoencoder,55,BP,1.0,step,1.0,ART
+Autoencoder,60,BP,1.0,step,1.0,ART
+LSTM,10,BP,1.0,step,1.0,ART
+LSTM,16,BP,1.0,step,1.0,ART
+LSTM,17,BP,1.0,step,1.0,ART
+LSTM,19,BP,1.0,step,,
+LSTM,29,BP,1.0,step,1.0,ART
+LSTM,34,BP,1.0,step,1.0,ART
+LSTM,55,BP,1.0,step,1.0,ART
+LSTM,60,BP,1.0,step,1.0,ART
+Redundancy,10,BP,2.0,drift_60s,1.0,ART
+Redundancy,16,BP,2.0,drift_60s,1.0,ART
+Redundancy,17,BP,2.0,drift_60s,2.0,ART+EV1000
+Redundancy,19,BP,2.0,drift_60s,3.0,ART+NIBP+EV1000
+Redundancy,29,BP,2.0,drift_60s,2.0,ART+EV1000
+Redundancy,34,BP,2.0,drift_60s,1.0,ART
+Redundancy,55,BP,2.0,drift_60s,2.0,ART+EV1000
+Redundancy,60,BP,2.0,drift_60s,2.0,ART+EV1000
+Learned,10,BP,2.0,drift_60s,,
+Learned,16,BP,2.0,drift_60s,,
+Learned,17,BP,2.0,drift_60s,1.0,ART
+Learned,19,BP,2.0,drift_60s,,
+Learned,29,BP,2.0,drift_60s,1.0,ART
+Learned,34,BP,2.0,drift_60s,1.0,ART
+Learned,55,BP,2.0,drift_60s,1.0,ART
+Learned,60,BP,2.0,drift_60s,1.0,ART
+Combined,10,BP,2.0,drift_60s,1.0,ART
+Combined,16,BP,2.0,drift_60s,,
+Combined,17,BP,2.0,drift_60s,2.0,ART+EV1000
+Combined,19,BP,2.0,drift_60s,,
+Combined,29,BP,2.0,drift_60s,,
+Combined,34,BP,2.0,drift_60s,1.0,ART
+Combined,55,BP,2.0,drift_60s,1.0,ART
+Combined,60,BP,2.0,drift_60s,2.0,ART+EV1000
+IF (all ch),10,BP,2.0,drift_60s,,
+IF (all ch),16,BP,2.0,drift_60s,,
+IF (all ch),17,BP,2.0,drift_60s,1.0,ART
+IF (all ch),19,BP,2.0,drift_60s,,
+IF (all ch),29,BP,2.0,drift_60s,,
+IF (all ch),34,BP,2.0,drift_60s,2.0,ART+NIBP
+IF (all ch),55,BP,2.0,drift_60s,1.0,ART
+IF (all ch),60,BP,2.0,drift_60s,,
+Autoencoder,10,BP,2.0,drift_60s,,
+Autoencoder,16,BP,2.0,drift_60s,,
+Autoencoder,17,BP,2.0,drift_60s,1.0,ART
+Autoencoder,19,BP,2.0,drift_60s,2.0,ART+EV1000
+Autoencoder,29,BP,2.0,drift_60s,,
+Autoencoder,34,BP,2.0,drift_60s,1.0,ART
+Autoencoder,55,BP,2.0,drift_60s,1.0,ART
+Autoencoder,60,BP,2.0,drift_60s,1.0,ART
+LSTM,10,BP,2.0,drift_60s,,
+LSTM,16,BP,2.0,drift_60s,,
+LSTM,17,BP,2.0,drift_60s,1.0,ART
+LSTM,19,BP,2.0,drift_60s,,
+LSTM,29,BP,2.0,drift_60s,1.0,ART
+LSTM,34,BP,2.0,drift_60s,1.0,ART
+LSTM,55,BP,2.0,drift_60s,1.0,ART
+LSTM,60,BP,2.0,drift_60s,1.0,ART
+Redundancy,10,BP,2.0,ramp_10s,1.0,ART
+Redundancy,16,BP,2.0,ramp_10s,1.0,ART
+Redundancy,17,BP,2.0,ramp_10s,3.0,ART+NIBP+EV1000
+Redundancy,19,BP,2.0,ramp_10s,3.0,ART+NIBP+EV1000
+Redundancy,29,BP,2.0,ramp_10s,2.0,ART+EV1000
+Redundancy,34,BP,2.0,ramp_10s,1.0,ART
+Redundancy,55,BP,2.0,ramp_10s,2.0,ART+EV1000
+Redundancy,60,BP,2.0,ramp_10s,,
+Learned,10,BP,2.0,ramp_10s,,
+Learned,16,BP,2.0,ramp_10s,,
+Learned,17,BP,2.0,ramp_10s,1.0,ART
+Learned,19,BP,2.0,ramp_10s,,
+Learned,29,BP,2.0,ramp_10s,,
+Learned,34,BP,2.0,ramp_10s,,
+Learned,55,BP,2.0,ramp_10s,1.0,ART
+Learned,60,BP,2.0,ramp_10s,1.0,ART
+Combined,10,BP,2.0,ramp_10s,,
+Combined,16,BP,2.0,ramp_10s,,
+Combined,17,BP,2.0,ramp_10s,2.0,ART+EV1000
+Combined,19,BP,2.0,ramp_10s,,
+Combined,29,BP,2.0,ramp_10s,,
+Combined,34,BP,2.0,ramp_10s,1.0,ART
+Combined,55,BP,2.0,ramp_10s,1.0,ART
+Combined,60,BP,2.0,ramp_10s,2.0,ART+EV1000
+IF (all ch),10,BP,2.0,ramp_10s,,
+IF (all ch),16,BP,2.0,ramp_10s,,
+IF (all ch),17,BP,2.0,ramp_10s,,
+IF (all ch),19,BP,2.0,ramp_10s,,
+IF (all ch),29,BP,2.0,ramp_10s,,
+IF (all ch),34,BP,2.0,ramp_10s,,
+IF (all ch),55,BP,2.0,ramp_10s,1.0,ART
+IF (all ch),60,BP,2.0,ramp_10s,,
+Autoencoder,10,BP,2.0,ramp_10s,,
+Autoencoder,16,BP,2.0,ramp_10s,,
+Autoencoder,17,BP,2.0,ramp_10s,1.0,ART
+Autoencoder,19,BP,2.0,ramp_10s,2.0,ART+EV1000
+Autoencoder,29,BP,2.0,ramp_10s,,
+Autoencoder,34,BP,2.0,ramp_10s,1.0,ART
+Autoencoder,55,BP,2.0,ramp_10s,1.0,ART
+Autoencoder,60,BP,2.0,ramp_10s,1.0,ART
+LSTM,10,BP,2.0,ramp_10s,,
+LSTM,16,BP,2.0,ramp_10s,,
+LSTM,17,BP,2.0,ramp_10s,1.0,ART
+LSTM,19,BP,2.0,ramp_10s,,
+LSTM,29,BP,2.0,ramp_10s,,
+LSTM,34,BP,2.0,ramp_10s,1.0,ART
+LSTM,55,BP,2.0,ramp_10s,1.0,ART
+LSTM,60,BP,2.0,ramp_10s,1.0,ART
+Redundancy,10,BP,2.0,step,,
+Redundancy,16,BP,2.0,step,,
+Redundancy,17,BP,2.0,step,,
+Redundancy,19,BP,2.0,step,,
+Redundancy,29,BP,2.0,step,,
+Redundancy,34,BP,2.0,step,,
+Redundancy,55,BP,2.0,step,,
+Redundancy,60,BP,2.0,step,,
+Learned,10,BP,2.0,step,,
+Learned,16,BP,2.0,step,,
+Learned,17,BP,2.0,step,1.0,ART
+Learned,19,BP,2.0,step,,
+Learned,29,BP,2.0,step,,
+Learned,34,BP,2.0,step,1.0,ART
+Learned,55,BP,2.0,step,1.0,ART
+Learned,60,BP,2.0,step,1.0,ART
+Combined,10,BP,2.0,step,,
+Combined,16,BP,2.0,step,,
+Combined,17,BP,2.0,step,,
+Combined,19,BP,2.0,step,,
+Combined,29,BP,2.0,step,,
+Combined,34,BP,2.0,step,1.0,ART
+Combined,55,BP,2.0,step,,
+Combined,60,BP,2.0,step,,
+IF (all ch),10,BP,2.0,step,,
+IF (all ch),16,BP,2.0,step,,
+IF (all ch),17,BP,2.0,step,,
+IF (all ch),19,BP,2.0,step,,
+IF (all ch),29,BP,2.0,step,,
+IF (all ch),34,BP,2.0,step,,
+IF (all ch),55,BP,2.0,step,1.0,ART
+IF (all ch),60,BP,2.0,step,,
+Autoencoder,10,BP,2.0,step,,
+Autoencoder,16,BP,2.0,step,,
+Autoencoder,17,BP,2.0,step,1.0,ART
+Autoencoder,19,BP,2.0,step,,
+Autoencoder,29,BP,2.0,step,,
+Autoencoder,34,BP,2.0,step,1.0,ART
+Autoencoder,55,BP,2.0,step,1.0,ART
+Autoencoder,60,BP,2.0,step,1.0,ART
+LSTM,10,BP,2.0,step,,
+LSTM,16,BP,2.0,step,,
+LSTM,17,BP,2.0,step,1.0,ART
+LSTM,19,BP,2.0,step,,
+LSTM,29,BP,2.0,step,,
+LSTM,34,BP,2.0,step,1.0,ART
+LSTM,55,BP,2.0,step,1.0,ART
+LSTM,60,BP,2.0,step,1.0,ART
+Redundancy,10,ETCO2,0.25,drift_60s,,
+Redundancy,16,ETCO2,0.25,drift_60s,,
+Redundancy,17,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Redundancy,19,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Redundancy,29,ETCO2,0.25,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,34,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Redundancy,55,ETCO2,0.25,drift_60s,,
+Redundancy,60,ETCO2,0.25,drift_60s,,
+Learned,10,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Learned,16,ETCO2,0.25,drift_60s,,
+Learned,17,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Learned,19,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Learned,29,ETCO2,0.25,drift_60s,,
+Learned,34,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Learned,55,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Learned,60,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Combined,10,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Combined,16,ETCO2,0.25,drift_60s,,
+Combined,17,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Combined,19,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Combined,29,ETCO2,0.25,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,34,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Combined,55,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Combined,60,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),10,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),60,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,0.25,drift_60s,,
+Autoencoder,16,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,34,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,10,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,16,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,17,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,19,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,29,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,34,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,55,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,60,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Redundancy,10,ETCO2,0.25,ramp_10s,,
+Redundancy,16,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,17,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Redundancy,19,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,34,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Redundancy,55,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,60,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Learned,10,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,16,ETCO2,0.25,ramp_10s,,
+Learned,17,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,19,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,29,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,34,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,55,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,60,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Combined,10,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Combined,16,ETCO2,0.25,ramp_10s,,
+Combined,17,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Combined,19,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Combined,29,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,34,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Combined,55,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,60,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),10,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),60,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,0.25,ramp_10s,,
+Autoencoder,16,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,34,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,10,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,16,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,17,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,19,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,29,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,34,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,55,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,60,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Redundancy,10,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,16,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,17,ETCO2,0.25,step,1.0,MON_CAPNO
+Redundancy,19,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,34,ETCO2,0.25,step,1.0,MON_CAPNO
+Redundancy,55,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,60,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Learned,10,ETCO2,0.25,step,1.0,MON_CAPNO
+Learned,16,ETCO2,0.25,step,,
+Learned,17,ETCO2,0.25,step,1.0,MON_CAPNO
+Learned,19,ETCO2,0.25,step,1.0,MON_CAPNO
+Learned,29,ETCO2,0.25,step,,
+Learned,34,ETCO2,0.25,step,1.0,MON_CAPNO
+Learned,55,ETCO2,0.25,step,1.0,MON_CAPNO
+Learned,60,ETCO2,0.25,step,1.0,MON_CAPNO
+Combined,10,ETCO2,0.25,step,1.0,MON_CAPNO
+Combined,16,ETCO2,0.25,step,,
+Combined,17,ETCO2,0.25,step,1.0,MON_CAPNO
+Combined,19,ETCO2,0.25,step,1.0,MON_CAPNO
+Combined,29,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,34,ETCO2,0.25,step,1.0,MON_CAPNO
+Combined,55,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,60,ETCO2,0.25,step,1.0,MON_CAPNO
+IF (all ch),10,ETCO2,0.25,step,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,0.25,step,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,0.25,step,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,0.25,step,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,0.25,step,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,0.25,step,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,0.25,step,1.0,MON_CAPNO
+IF (all ch),60,ETCO2,0.25,step,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,0.25,step,,
+Autoencoder,16,ETCO2,0.25,step,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,0.25,step,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,0.25,step,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,0.25,step,1.0,MON_CAPNO
+Autoencoder,34,ETCO2,0.25,step,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,0.25,step,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,0.25,step,1.0,MON_CAPNO
+LSTM,10,ETCO2,0.25,step,1.0,MON_CAPNO
+LSTM,16,ETCO2,0.25,step,1.0,MON_CAPNO
+LSTM,17,ETCO2,0.25,step,1.0,MON_CAPNO
+LSTM,19,ETCO2,0.25,step,1.0,MON_CAPNO
+LSTM,29,ETCO2,0.25,step,1.0,MON_CAPNO
+LSTM,34,ETCO2,0.25,step,1.0,MON_CAPNO
+LSTM,55,ETCO2,0.25,step,1.0,MON_CAPNO
+LSTM,60,ETCO2,0.25,step,1.0,MON_CAPNO
+Redundancy,10,ETCO2,0.5,drift_60s,,
+Redundancy,16,ETCO2,0.5,drift_60s,,
+Redundancy,17,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Redundancy,19,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,34,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Redundancy,55,ETCO2,0.5,drift_60s,,
+Redundancy,60,ETCO2,0.5,drift_60s,,
+Learned,10,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Learned,16,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Learned,17,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Learned,19,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Learned,29,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Learned,34,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Learned,55,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Learned,60,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Combined,10,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,16,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Combined,17,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Combined,19,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,29,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,34,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Combined,55,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,60,ETCO2,0.5,drift_60s,,
+IF (all ch),10,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),60,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,16,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,34,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,10,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,16,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,17,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,19,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,29,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,34,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,55,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,60,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Redundancy,10,ETCO2,0.5,ramp_10s,,
+Redundancy,16,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,17,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Redundancy,19,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,34,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Redundancy,55,ETCO2,0.5,ramp_10s,,
+Redundancy,60,ETCO2,0.5,ramp_10s,,
+Learned,10,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,16,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,17,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,19,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,29,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,34,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,55,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,60,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Combined,10,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,16,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Combined,17,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Combined,19,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,29,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,34,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Combined,55,ETCO2,0.5,ramp_10s,,
+Combined,60,ETCO2,0.5,ramp_10s,,
+IF (all ch),10,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),60,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,16,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,34,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,10,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,16,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,17,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,19,ETCO2,0.5,ramp_10s,,
+LSTM,29,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,34,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,55,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,60,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Redundancy,10,ETCO2,0.5,step,,
+Redundancy,16,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,17,ETCO2,0.5,step,1.0,MON_CAPNO
+Redundancy,19,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,0.5,step,,
+Redundancy,34,ETCO2,0.5,step,1.0,MON_CAPNO
+Redundancy,55,ETCO2,0.5,step,,
+Redundancy,60,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Learned,10,ETCO2,0.5,step,1.0,MON_CAPNO
+Learned,16,ETCO2,0.5,step,1.0,MON_CAPNO
+Learned,17,ETCO2,0.5,step,1.0,MON_CAPNO
+Learned,19,ETCO2,0.5,step,1.0,MON_CAPNO
+Learned,29,ETCO2,0.5,step,1.0,MON_CAPNO
+Learned,34,ETCO2,0.5,step,1.0,MON_CAPNO
+Learned,55,ETCO2,0.5,step,1.0,MON_CAPNO
+Learned,60,ETCO2,0.5,step,1.0,MON_CAPNO
+Combined,10,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,16,ETCO2,0.5,step,1.0,MON_CAPNO
+Combined,17,ETCO2,0.5,step,1.0,MON_CAPNO
+Combined,19,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,29,ETCO2,0.5,step,,
+Combined,34,ETCO2,0.5,step,1.0,MON_CAPNO
+Combined,55,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,60,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+IF (all ch),10,ETCO2,0.5,step,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,0.5,step,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,0.5,step,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,0.5,step,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,0.5,step,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,0.5,step,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,0.5,step,1.0,MON_CAPNO
+IF (all ch),60,ETCO2,0.5,step,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,0.5,step,1.0,MON_CAPNO
+Autoencoder,16,ETCO2,0.5,step,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,0.5,step,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,0.5,step,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,0.5,step,1.0,MON_CAPNO
+Autoencoder,34,ETCO2,0.5,step,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,0.5,step,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,0.5,step,1.0,MON_CAPNO
+LSTM,10,ETCO2,0.5,step,1.0,MON_CAPNO
+LSTM,16,ETCO2,0.5,step,1.0,MON_CAPNO
+LSTM,17,ETCO2,0.5,step,1.0,MON_CAPNO
+LSTM,19,ETCO2,0.5,step,,
+LSTM,29,ETCO2,0.5,step,1.0,MON_CAPNO
+LSTM,34,ETCO2,0.5,step,1.0,MON_CAPNO
+LSTM,55,ETCO2,0.5,step,1.0,MON_CAPNO
+LSTM,60,ETCO2,0.5,step,1.0,MON_CAPNO
+Redundancy,10,ETCO2,1.0,drift_60s,,
+Redundancy,16,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,17,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Redundancy,19,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,1.0,drift_60s,,
+Redundancy,34,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Redundancy,55,ETCO2,1.0,drift_60s,,
+Redundancy,60,ETCO2,1.0,drift_60s,,
+Learned,10,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Learned,16,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Learned,17,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Learned,19,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Learned,29,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Learned,34,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Learned,55,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Learned,60,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Combined,10,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,16,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Combined,17,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Combined,19,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,29,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,34,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Combined,55,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,60,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+IF (all ch),10,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,1.0,drift_60s,,
+IF (all ch),60,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,16,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,34,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,10,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,16,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,17,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,19,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,29,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,34,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,55,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+LSTM,60,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Redundancy,10,ETCO2,1.0,ramp_10s,,
+Redundancy,16,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,17,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Redundancy,19,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,1.0,ramp_10s,,
+Redundancy,34,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Redundancy,55,ETCO2,1.0,ramp_10s,,
+Redundancy,60,ETCO2,1.0,ramp_10s,,
+Learned,10,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,16,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,17,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,19,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,29,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,34,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,55,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,60,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Combined,10,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,16,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,17,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Combined,19,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,29,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,34,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Combined,55,ETCO2,1.0,ramp_10s,,
+Combined,60,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+IF (all ch),10,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,1.0,ramp_10s,,
+IF (all ch),60,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,16,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Autoencoder,34,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,10,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,16,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,17,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,19,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,29,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,34,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,55,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+LSTM,60,ETCO2,1.0,ramp_10s,,
+Redundancy,10,ETCO2,1.0,step,,
+Redundancy,16,ETCO2,1.0,step,,
+Redundancy,17,ETCO2,1.0,step,1.0,MON_CAPNO
+Redundancy,19,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,1.0,step,,
+Redundancy,34,ETCO2,1.0,step,1.0,MON_CAPNO
+Redundancy,55,ETCO2,1.0,step,,
+Redundancy,60,ETCO2,1.0,step,,
+Learned,10,ETCO2,1.0,step,1.0,MON_CAPNO
+Learned,16,ETCO2,1.0,step,1.0,MON_CAPNO
+Learned,17,ETCO2,1.0,step,1.0,MON_CAPNO
+Learned,19,ETCO2,1.0,step,1.0,MON_CAPNO
+Learned,29,ETCO2,1.0,step,1.0,MON_CAPNO
+Learned,34,ETCO2,1.0,step,1.0,MON_CAPNO
+Learned,55,ETCO2,1.0,step,1.0,MON_CAPNO
+Learned,60,ETCO2,1.0,step,1.0,MON_CAPNO
+Combined,10,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,16,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,17,ETCO2,1.0,step,1.0,MON_CAPNO
+Combined,19,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,29,ETCO2,1.0,step,,
+Combined,34,ETCO2,1.0,step,1.0,MON_CAPNO
+Combined,55,ETCO2,1.0,step,,
+Combined,60,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+IF (all ch),10,ETCO2,1.0,step,1.0,MON_CAPNO
+IF (all ch),16,ETCO2,1.0,step,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,1.0,step,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,1.0,step,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,1.0,step,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,1.0,step,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,1.0,step,,
+IF (all ch),60,ETCO2,1.0,step,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,1.0,step,1.0,MON_CAPNO
+Autoencoder,16,ETCO2,1.0,step,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,1.0,step,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,1.0,step,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Autoencoder,34,ETCO2,1.0,step,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,1.0,step,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,1.0,step,1.0,MON_CAPNO
+LSTM,10,ETCO2,1.0,step,1.0,MON_CAPNO
+LSTM,16,ETCO2,1.0,step,1.0,MON_CAPNO
+LSTM,17,ETCO2,1.0,step,1.0,MON_CAPNO
+LSTM,19,ETCO2,1.0,step,1.0,MON_CAPNO
+LSTM,29,ETCO2,1.0,step,1.0,MON_CAPNO
+LSTM,34,ETCO2,1.0,step,1.0,MON_CAPNO
+LSTM,55,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+LSTM,60,ETCO2,1.0,step,,
+Redundancy,10,ETCO2,2.0,drift_60s,,
+Redundancy,16,ETCO2,2.0,drift_60s,,
+Redundancy,17,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,19,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,34,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,55,ETCO2,2.0,drift_60s,,
+Redundancy,60,ETCO2,2.0,drift_60s,,
+Learned,10,ETCO2,2.0,drift_60s,,
+Learned,16,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Learned,17,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Learned,19,ETCO2,2.0,drift_60s,,
+Learned,29,ETCO2,2.0,drift_60s,,
+Learned,34,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Learned,55,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Learned,60,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Combined,10,ETCO2,2.0,drift_60s,,
+Combined,16,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,17,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Combined,19,ETCO2,2.0,drift_60s,,
+Combined,29,ETCO2,2.0,drift_60s,,
+Combined,34,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Combined,55,ETCO2,2.0,drift_60s,,
+Combined,60,ETCO2,2.0,drift_60s,,
+IF (all ch),10,ETCO2,2.0,drift_60s,,
+IF (all ch),16,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),60,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,2.0,drift_60s,,
+Autoencoder,16,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,2.0,drift_60s,,
+Autoencoder,34,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+LSTM,10,ETCO2,2.0,drift_60s,,
+LSTM,16,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+LSTM,17,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+LSTM,19,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+LSTM,29,ETCO2,2.0,drift_60s,,
+LSTM,34,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+LSTM,55,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+LSTM,60,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Redundancy,10,ETCO2,2.0,ramp_10s,,
+Redundancy,16,ETCO2,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,17,ETCO2,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,19,ETCO2,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,29,ETCO2,2.0,ramp_10s,,
+Redundancy,34,ETCO2,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,55,ETCO2,2.0,ramp_10s,,
+Redundancy,60,ETCO2,2.0,ramp_10s,,
+Learned,10,ETCO2,2.0,ramp_10s,,
+Learned,16,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Learned,17,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Learned,19,ETCO2,2.0,ramp_10s,,
+Learned,29,ETCO2,2.0,ramp_10s,,
+Learned,34,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Learned,55,ETCO2,2.0,ramp_10s,,
+Learned,60,ETCO2,2.0,ramp_10s,,
+Combined,10,ETCO2,2.0,ramp_10s,,
+Combined,16,ETCO2,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Combined,17,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Combined,19,ETCO2,2.0,ramp_10s,,
+Combined,29,ETCO2,2.0,ramp_10s,,
+Combined,34,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Combined,55,ETCO2,2.0,ramp_10s,,
+Combined,60,ETCO2,2.0,ramp_10s,,
+IF (all ch),10,ETCO2,2.0,ramp_10s,,
+IF (all ch),16,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,2.0,ramp_10s,,
+IF (all ch),60,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,2.0,ramp_10s,,
+Autoencoder,16,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,2.0,ramp_10s,,
+Autoencoder,34,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+LSTM,10,ETCO2,2.0,ramp_10s,,
+LSTM,16,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+LSTM,17,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+LSTM,19,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+LSTM,29,ETCO2,2.0,ramp_10s,,
+LSTM,34,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+LSTM,55,ETCO2,2.0,ramp_10s,,
+LSTM,60,ETCO2,2.0,ramp_10s,,
+Redundancy,10,ETCO2,2.0,step,,
+Redundancy,16,ETCO2,2.0,step,,
+Redundancy,17,ETCO2,2.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,19,ETCO2,2.0,step,,
+Redundancy,29,ETCO2,2.0,step,,
+Redundancy,34,ETCO2,2.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Redundancy,55,ETCO2,2.0,step,,
+Redundancy,60,ETCO2,2.0,step,,
+Learned,10,ETCO2,2.0,step,,
+Learned,16,ETCO2,2.0,step,1.0,MON_CAPNO
+Learned,17,ETCO2,2.0,step,1.0,MON_CAPNO
+Learned,19,ETCO2,2.0,step,,
+Learned,29,ETCO2,2.0,step,,
+Learned,34,ETCO2,2.0,step,1.0,MON_CAPNO
+Learned,55,ETCO2,2.0,step,,
+Learned,60,ETCO2,2.0,step,,
+Combined,10,ETCO2,2.0,step,,
+Combined,16,ETCO2,2.0,step,,
+Combined,17,ETCO2,2.0,step,1.0,MON_CAPNO
+Combined,19,ETCO2,2.0,step,,
+Combined,29,ETCO2,2.0,step,,
+Combined,34,ETCO2,2.0,step,1.0,MON_CAPNO
+Combined,55,ETCO2,2.0,step,,
+Combined,60,ETCO2,2.0,step,,
+IF (all ch),10,ETCO2,2.0,step,,
+IF (all ch),16,ETCO2,2.0,step,1.0,MON_CAPNO
+IF (all ch),17,ETCO2,2.0,step,1.0,MON_CAPNO
+IF (all ch),19,ETCO2,2.0,step,1.0,MON_CAPNO
+IF (all ch),29,ETCO2,2.0,step,1.0,MON_CAPNO
+IF (all ch),34,ETCO2,2.0,step,1.0,MON_CAPNO
+IF (all ch),55,ETCO2,2.0,step,,
+IF (all ch),60,ETCO2,2.0,step,1.0,MON_CAPNO
+Autoencoder,10,ETCO2,2.0,step,,
+Autoencoder,16,ETCO2,2.0,step,1.0,MON_CAPNO
+Autoencoder,17,ETCO2,2.0,step,1.0,MON_CAPNO
+Autoencoder,19,ETCO2,2.0,step,1.0,MON_CAPNO
+Autoencoder,29,ETCO2,2.0,step,,
+Autoencoder,34,ETCO2,2.0,step,1.0,MON_CAPNO
+Autoencoder,55,ETCO2,2.0,step,1.0,MON_CAPNO
+Autoencoder,60,ETCO2,2.0,step,1.0,MON_CAPNO
+LSTM,10,ETCO2,2.0,step,,
+LSTM,16,ETCO2,2.0,step,1.0,MON_CAPNO
+LSTM,17,ETCO2,2.0,step,1.0,MON_CAPNO
+LSTM,19,ETCO2,2.0,step,1.0,MON_CAPNO
+LSTM,29,ETCO2,2.0,step,,
+LSTM,34,ETCO2,2.0,step,1.0,MON_CAPNO
+LSTM,55,ETCO2,2.0,step,,
+LSTM,60,ETCO2,2.0,step,,
+Redundancy,10,HR,0.25,drift_60s,1.0,ECG
+Redundancy,16,HR,0.25,drift_60s,1.0,ECG
+Redundancy,17,HR,0.25,drift_60s,1.0,ECG
+Redundancy,19,HR,0.25,drift_60s,1.0,ECG
+Redundancy,29,HR,0.25,drift_60s,1.0,ECG
+Redundancy,34,HR,0.25,drift_60s,1.0,ECG
+Redundancy,55,HR,0.25,drift_60s,2.0,ECG+PLETH
+Redundancy,60,HR,0.25,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Learned,10,HR,0.25,drift_60s,1.0,ECG
+Learned,16,HR,0.25,drift_60s,1.0,ECG
+Learned,17,HR,0.25,drift_60s,1.0,ECG
+Learned,19,HR,0.25,drift_60s,1.0,ECG
+Learned,29,HR,0.25,drift_60s,1.0,ECG
+Learned,34,HR,0.25,drift_60s,1.0,ECG
+Learned,55,HR,0.25,drift_60s,1.0,ECG
+Learned,60,HR,0.25,drift_60s,1.0,ECG
+Combined,10,HR,0.25,drift_60s,1.0,ECG
+Combined,16,HR,0.25,drift_60s,1.0,ECG
+Combined,17,HR,0.25,drift_60s,1.0,ECG
+Combined,19,HR,0.25,drift_60s,1.0,ECG
+Combined,29,HR,0.25,drift_60s,1.0,ECG
+Combined,34,HR,0.25,drift_60s,1.0,ECG
+Combined,55,HR,0.25,drift_60s,1.0,ECG
+Combined,60,HR,0.25,drift_60s,3.0,ECG+PLETH+ART_WAVE
+IF (all ch),10,HR,0.25,drift_60s,1.0,ECG
+IF (all ch),16,HR,0.25,drift_60s,1.0,ECG
+IF (all ch),17,HR,0.25,drift_60s,1.0,ECG
+IF (all ch),19,HR,0.25,drift_60s,1.0,ECG
+IF (all ch),29,HR,0.25,drift_60s,1.0,ECG
+IF (all ch),34,HR,0.25,drift_60s,1.0,ECG
+IF (all ch),55,HR,0.25,drift_60s,1.0,ECG
+IF (all ch),60,HR,0.25,drift_60s,1.0,ECG
+Autoencoder,10,HR,0.25,drift_60s,1.0,ECG
+Autoencoder,16,HR,0.25,drift_60s,1.0,ECG
+Autoencoder,17,HR,0.25,drift_60s,1.0,ECG
+Autoencoder,19,HR,0.25,drift_60s,1.0,ECG
+Autoencoder,29,HR,0.25,drift_60s,1.0,ECG
+Autoencoder,34,HR,0.25,drift_60s,1.0,ECG
+Autoencoder,55,HR,0.25,drift_60s,1.0,ECG
+Autoencoder,60,HR,0.25,drift_60s,1.0,ECG
+LSTM,10,HR,0.25,drift_60s,1.0,ECG
+LSTM,16,HR,0.25,drift_60s,1.0,ECG
+LSTM,17,HR,0.25,drift_60s,1.0,ECG
+LSTM,19,HR,0.25,drift_60s,1.0,ECG
+LSTM,29,HR,0.25,drift_60s,1.0,ECG
+LSTM,34,HR,0.25,drift_60s,1.0,ECG
+LSTM,55,HR,0.25,drift_60s,1.0,ECG
+LSTM,60,HR,0.25,drift_60s,1.0,ECG
+Redundancy,10,HR,0.25,ramp_10s,1.0,ECG
+Redundancy,16,HR,0.25,ramp_10s,1.0,ECG
+Redundancy,17,HR,0.25,ramp_10s,1.0,ECG
+Redundancy,19,HR,0.25,ramp_10s,1.0,ECG
+Redundancy,29,HR,0.25,ramp_10s,1.0,ECG
+Redundancy,34,HR,0.25,ramp_10s,1.0,ECG
+Redundancy,55,HR,0.25,ramp_10s,2.0,ECG+PLETH
+Redundancy,60,HR,0.25,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Learned,10,HR,0.25,ramp_10s,1.0,ECG
+Learned,16,HR,0.25,ramp_10s,1.0,ECG
+Learned,17,HR,0.25,ramp_10s,1.0,ECG
+Learned,19,HR,0.25,ramp_10s,1.0,ECG
+Learned,29,HR,0.25,ramp_10s,1.0,ECG
+Learned,34,HR,0.25,ramp_10s,1.0,ECG
+Learned,55,HR,0.25,ramp_10s,1.0,ECG
+Learned,60,HR,0.25,ramp_10s,1.0,ECG
+Combined,10,HR,0.25,ramp_10s,1.0,ECG
+Combined,16,HR,0.25,ramp_10s,1.0,ECG
+Combined,17,HR,0.25,ramp_10s,1.0,ECG
+Combined,19,HR,0.25,ramp_10s,1.0,ECG
+Combined,29,HR,0.25,ramp_10s,1.0,ECG
+Combined,34,HR,0.25,ramp_10s,1.0,ECG
+Combined,55,HR,0.25,ramp_10s,2.0,ECG+PLETH
+Combined,60,HR,0.25,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+IF (all ch),10,HR,0.25,ramp_10s,1.0,ECG
+IF (all ch),16,HR,0.25,ramp_10s,1.0,ECG
+IF (all ch),17,HR,0.25,ramp_10s,2.0,ECG+ART_WAVE
+IF (all ch),19,HR,0.25,ramp_10s,1.0,ECG
+IF (all ch),29,HR,0.25,ramp_10s,1.0,ECG
+IF (all ch),34,HR,0.25,ramp_10s,1.0,ECG
+IF (all ch),55,HR,0.25,ramp_10s,1.0,ECG
+IF (all ch),60,HR,0.25,ramp_10s,1.0,ECG
+Autoencoder,10,HR,0.25,ramp_10s,1.0,ECG
+Autoencoder,16,HR,0.25,ramp_10s,1.0,ECG
+Autoencoder,17,HR,0.25,ramp_10s,1.0,ECG
+Autoencoder,19,HR,0.25,ramp_10s,1.0,ECG
+Autoencoder,29,HR,0.25,ramp_10s,1.0,ECG
+Autoencoder,34,HR,0.25,ramp_10s,1.0,ECG
+Autoencoder,55,HR,0.25,ramp_10s,1.0,ECG
+Autoencoder,60,HR,0.25,ramp_10s,1.0,ECG
+LSTM,10,HR,0.25,ramp_10s,1.0,ECG
+LSTM,16,HR,0.25,ramp_10s,1.0,ECG
+LSTM,17,HR,0.25,ramp_10s,1.0,ECG
+LSTM,19,HR,0.25,ramp_10s,1.0,ECG
+LSTM,29,HR,0.25,ramp_10s,1.0,ECG
+LSTM,34,HR,0.25,ramp_10s,1.0,ECG
+LSTM,55,HR,0.25,ramp_10s,1.0,ECG
+LSTM,60,HR,0.25,ramp_10s,1.0,ECG
+Redundancy,10,HR,0.25,step,1.0,ECG
+Redundancy,16,HR,0.25,step,1.0,ECG
+Redundancy,17,HR,0.25,step,1.0,ECG
+Redundancy,19,HR,0.25,step,1.0,ECG
+Redundancy,29,HR,0.25,step,1.0,ECG
+Redundancy,34,HR,0.25,step,1.0,ECG
+Redundancy,55,HR,0.25,step,,
+Redundancy,60,HR,0.25,step,,
+Learned,10,HR,0.25,step,1.0,ECG
+Learned,16,HR,0.25,step,1.0,ECG
+Learned,17,HR,0.25,step,2.0,ECG+PLETH
+Learned,19,HR,0.25,step,1.0,ECG
+Learned,29,HR,0.25,step,1.0,ECG
+Learned,34,HR,0.25,step,1.0,ECG
+Learned,55,HR,0.25,step,1.0,ECG
+Learned,60,HR,0.25,step,1.0,ECG
+Combined,10,HR,0.25,step,1.0,ECG
+Combined,16,HR,0.25,step,1.0,ECG
+Combined,17,HR,0.25,step,1.0,ECG
+Combined,19,HR,0.25,step,1.0,ECG
+Combined,29,HR,0.25,step,1.0,ECG
+Combined,34,HR,0.25,step,1.0,ECG
+Combined,55,HR,0.25,step,2.0,ECG+PLETH
+Combined,60,HR,0.25,step,3.0,ECG+PLETH+ART_WAVE
+IF (all ch),10,HR,0.25,step,1.0,ECG
+IF (all ch),16,HR,0.25,step,1.0,ECG
+IF (all ch),17,HR,0.25,step,,
+IF (all ch),19,HR,0.25,step,1.0,ECG
+IF (all ch),29,HR,0.25,step,1.0,ECG
+IF (all ch),34,HR,0.25,step,1.0,ECG
+IF (all ch),55,HR,0.25,step,1.0,ECG
+IF (all ch),60,HR,0.25,step,1.0,ECG
+Autoencoder,10,HR,0.25,step,1.0,ECG
+Autoencoder,16,HR,0.25,step,1.0,ECG
+Autoencoder,17,HR,0.25,step,1.0,ECG
+Autoencoder,19,HR,0.25,step,1.0,ECG
+Autoencoder,29,HR,0.25,step,1.0,ECG
+Autoencoder,34,HR,0.25,step,1.0,ECG
+Autoencoder,55,HR,0.25,step,1.0,ECG
+Autoencoder,60,HR,0.25,step,1.0,ECG
+LSTM,10,HR,0.25,step,1.0,ECG
+LSTM,16,HR,0.25,step,1.0,ECG
+LSTM,17,HR,0.25,step,1.0,ECG
+LSTM,19,HR,0.25,step,1.0,ECG
+LSTM,29,HR,0.25,step,1.0,ECG
+LSTM,34,HR,0.25,step,1.0,ECG
+LSTM,55,HR,0.25,step,1.0,ECG
+LSTM,60,HR,0.25,step,1.0,ECG
+Redundancy,10,HR,0.5,drift_60s,1.0,ECG
+Redundancy,16,HR,0.5,drift_60s,1.0,ECG
+Redundancy,17,HR,0.5,drift_60s,1.0,ECG
+Redundancy,19,HR,0.5,drift_60s,1.0,ECG
+Redundancy,29,HR,0.5,drift_60s,1.0,ECG
+Redundancy,34,HR,0.5,drift_60s,1.0,ECG
+Redundancy,55,HR,0.5,drift_60s,2.0,ECG+PLETH
+Redundancy,60,HR,0.5,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Learned,10,HR,0.5,drift_60s,1.0,ECG
+Learned,16,HR,0.5,drift_60s,1.0,ECG
+Learned,17,HR,0.5,drift_60s,1.0,ECG
+Learned,19,HR,0.5,drift_60s,1.0,ECG
+Learned,29,HR,0.5,drift_60s,1.0,ECG
+Learned,34,HR,0.5,drift_60s,1.0,ECG
+Learned,55,HR,0.5,drift_60s,1.0,ECG
+Learned,60,HR,0.5,drift_60s,1.0,ECG
+Combined,10,HR,0.5,drift_60s,1.0,ECG
+Combined,16,HR,0.5,drift_60s,1.0,ECG
+Combined,17,HR,0.5,drift_60s,1.0,ECG
+Combined,19,HR,0.5,drift_60s,1.0,ECG
+Combined,29,HR,0.5,drift_60s,1.0,ECG
+Combined,34,HR,0.5,drift_60s,1.0,ECG
+Combined,55,HR,0.5,drift_60s,2.0,ECG+PLETH
+Combined,60,HR,0.5,drift_60s,2.0,ECG+ART_WAVE
+IF (all ch),10,HR,0.5,drift_60s,1.0,ECG
+IF (all ch),16,HR,0.5,drift_60s,1.0,ECG
+IF (all ch),17,HR,0.5,drift_60s,1.0,ECG
+IF (all ch),19,HR,0.5,drift_60s,1.0,ECG
+IF (all ch),29,HR,0.5,drift_60s,1.0,ECG
+IF (all ch),34,HR,0.5,drift_60s,,
+IF (all ch),55,HR,0.5,drift_60s,1.0,ECG
+IF (all ch),60,HR,0.5,drift_60s,1.0,ECG
+Autoencoder,10,HR,0.5,drift_60s,1.0,ECG
+Autoencoder,16,HR,0.5,drift_60s,1.0,ECG
+Autoencoder,17,HR,0.5,drift_60s,1.0,ECG
+Autoencoder,19,HR,0.5,drift_60s,1.0,ECG
+Autoencoder,29,HR,0.5,drift_60s,1.0,ECG
+Autoencoder,34,HR,0.5,drift_60s,2.0,ECG+ART_WAVE
+Autoencoder,55,HR,0.5,drift_60s,1.0,ECG
+Autoencoder,60,HR,0.5,drift_60s,1.0,ECG
+LSTM,10,HR,0.5,drift_60s,1.0,ECG
+LSTM,16,HR,0.5,drift_60s,1.0,ECG
+LSTM,17,HR,0.5,drift_60s,1.0,ECG
+LSTM,19,HR,0.5,drift_60s,1.0,ECG
+LSTM,29,HR,0.5,drift_60s,1.0,ECG
+LSTM,34,HR,0.5,drift_60s,1.0,ECG
+LSTM,55,HR,0.5,drift_60s,1.0,ECG
+LSTM,60,HR,0.5,drift_60s,1.0,ECG
+Redundancy,10,HR,0.5,ramp_10s,1.0,ECG
+Redundancy,16,HR,0.5,ramp_10s,1.0,ECG
+Redundancy,17,HR,0.5,ramp_10s,2.0,ECG+PLETH
+Redundancy,19,HR,0.5,ramp_10s,1.0,ECG
+Redundancy,29,HR,0.5,ramp_10s,1.0,ECG
+Redundancy,34,HR,0.5,ramp_10s,1.0,ECG
+Redundancy,55,HR,0.5,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Redundancy,60,HR,0.5,ramp_10s,,
+Learned,10,HR,0.5,ramp_10s,1.0,ECG
+Learned,16,HR,0.5,ramp_10s,1.0,ECG
+Learned,17,HR,0.5,ramp_10s,1.0,ECG
+Learned,19,HR,0.5,ramp_10s,1.0,ECG
+Learned,29,HR,0.5,ramp_10s,1.0,ECG
+Learned,34,HR,0.5,ramp_10s,2.0,ECG+ART_WAVE
+Learned,55,HR,0.5,ramp_10s,1.0,ECG
+Learned,60,HR,0.5,ramp_10s,1.0,ECG
+Combined,10,HR,0.5,ramp_10s,1.0,ECG
+Combined,16,HR,0.5,ramp_10s,,
+Combined,17,HR,0.5,ramp_10s,1.0,ECG
+Combined,19,HR,0.5,ramp_10s,1.0,ECG
+Combined,29,HR,0.5,ramp_10s,1.0,ECG
+Combined,34,HR,0.5,ramp_10s,,
+Combined,55,HR,0.5,ramp_10s,2.0,ECG+PLETH
+Combined,60,HR,0.5,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+IF (all ch),10,HR,0.5,ramp_10s,1.0,ECG
+IF (all ch),16,HR,0.5,ramp_10s,,
+IF (all ch),17,HR,0.5,ramp_10s,1.0,ECG
+IF (all ch),19,HR,0.5,ramp_10s,1.0,ECG
+IF (all ch),29,HR,0.5,ramp_10s,1.0,ECG
+IF (all ch),34,HR,0.5,ramp_10s,,
+IF (all ch),55,HR,0.5,ramp_10s,1.0,ECG
+IF (all ch),60,HR,0.5,ramp_10s,,
+Autoencoder,10,HR,0.5,ramp_10s,1.0,ECG
+Autoencoder,16,HR,0.5,ramp_10s,1.0,ECG
+Autoencoder,17,HR,0.5,ramp_10s,1.0,ECG
+Autoencoder,19,HR,0.5,ramp_10s,1.0,ECG
+Autoencoder,29,HR,0.5,ramp_10s,1.0,ECG
+Autoencoder,34,HR,0.5,ramp_10s,2.0,ECG+ART_WAVE
+Autoencoder,55,HR,0.5,ramp_10s,1.0,ECG
+Autoencoder,60,HR,0.5,ramp_10s,1.0,ECG
+LSTM,10,HR,0.5,ramp_10s,1.0,ECG
+LSTM,16,HR,0.5,ramp_10s,1.0,ECG
+LSTM,17,HR,0.5,ramp_10s,1.0,ECG
+LSTM,19,HR,0.5,ramp_10s,1.0,ECG
+LSTM,29,HR,0.5,ramp_10s,1.0,ECG
+LSTM,34,HR,0.5,ramp_10s,1.0,ECG
+LSTM,55,HR,0.5,ramp_10s,1.0,ECG
+LSTM,60,HR,0.5,ramp_10s,1.0,ECG
+Redundancy,10,HR,0.5,step,1.0,ECG
+Redundancy,16,HR,0.5,step,1.0,ECG
+Redundancy,17,HR,0.5,step,2.0,ECG+PLETH
+Redundancy,19,HR,0.5,step,1.0,ECG
+Redundancy,29,HR,0.5,step,1.0,ECG
+Redundancy,34,HR,0.5,step,1.0,ECG
+Redundancy,55,HR,0.5,step,,
+Redundancy,60,HR,0.5,step,,
+Learned,10,HR,0.5,step,1.0,ECG
+Learned,16,HR,0.5,step,1.0,ECG
+Learned,17,HR,0.5,step,1.0,ECG
+Learned,19,HR,0.5,step,1.0,ECG
+Learned,29,HR,0.5,step,1.0,ECG
+Learned,34,HR,0.5,step,2.0,ECG+ART_WAVE
+Learned,55,HR,0.5,step,1.0,ECG
+Learned,60,HR,0.5,step,1.0,ECG
+Combined,10,HR,0.5,step,1.0,ECG
+Combined,16,HR,0.5,step,,
+Combined,17,HR,0.5,step,1.0,ECG
+Combined,19,HR,0.5,step,1.0,ECG
+Combined,29,HR,0.5,step,1.0,ECG
+Combined,34,HR,0.5,step,,
+Combined,55,HR,0.5,step,,
+Combined,60,HR,0.5,step,3.0,ECG+PLETH+ART_WAVE
+IF (all ch),10,HR,0.5,step,1.0,ECG
+IF (all ch),16,HR,0.5,step,,
+IF (all ch),17,HR,0.5,step,1.0,ECG
+IF (all ch),19,HR,0.5,step,1.0,ECG
+IF (all ch),29,HR,0.5,step,1.0,ECG
+IF (all ch),34,HR,0.5,step,,
+IF (all ch),55,HR,0.5,step,1.0,ECG
+IF (all ch),60,HR,0.5,step,,
+Autoencoder,10,HR,0.5,step,1.0,ECG
+Autoencoder,16,HR,0.5,step,1.0,ECG
+Autoencoder,17,HR,0.5,step,1.0,ECG
+Autoencoder,19,HR,0.5,step,1.0,ECG
+Autoencoder,29,HR,0.5,step,1.0,ECG
+Autoencoder,34,HR,0.5,step,2.0,ECG+ART_WAVE
+Autoencoder,55,HR,0.5,step,1.0,ECG
+Autoencoder,60,HR,0.5,step,1.0,ECG
+LSTM,10,HR,0.5,step,1.0,ECG
+LSTM,16,HR,0.5,step,1.0,ECG
+LSTM,17,HR,0.5,step,1.0,ECG
+LSTM,19,HR,0.5,step,1.0,ECG
+LSTM,29,HR,0.5,step,1.0,ECG
+LSTM,34,HR,0.5,step,1.0,ECG
+LSTM,55,HR,0.5,step,1.0,ECG
+LSTM,60,HR,0.5,step,1.0,ECG
+Redundancy,10,HR,1.0,drift_60s,1.0,ECG
+Redundancy,16,HR,1.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Redundancy,17,HR,1.0,drift_60s,2.0,ECG+PLETH
+Redundancy,19,HR,1.0,drift_60s,1.0,ECG
+Redundancy,29,HR,1.0,drift_60s,1.0,ECG
+Redundancy,34,HR,1.0,drift_60s,1.0,ECG
+Redundancy,55,HR,1.0,drift_60s,,
+Redundancy,60,HR,1.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Learned,10,HR,1.0,drift_60s,1.0,ECG
+Learned,16,HR,1.0,drift_60s,1.0,ECG
+Learned,17,HR,1.0,drift_60s,1.0,ECG
+Learned,19,HR,1.0,drift_60s,1.0,ECG
+Learned,29,HR,1.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Learned,34,HR,1.0,drift_60s,1.0,ECG
+Learned,55,HR,1.0,drift_60s,1.0,ECG
+Learned,60,HR,1.0,drift_60s,1.0,ECG
+Combined,10,HR,1.0,drift_60s,1.0,ECG
+Combined,16,HR,1.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Combined,17,HR,1.0,drift_60s,,
+Combined,19,HR,1.0,drift_60s,1.0,ECG
+Combined,29,HR,1.0,drift_60s,2.0,ECG+PLETH
+Combined,34,HR,1.0,drift_60s,1.0,ECG
+Combined,55,HR,1.0,drift_60s,2.0,ECG+PLETH
+Combined,60,HR,1.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+IF (all ch),10,HR,1.0,drift_60s,1.0,ECG
+IF (all ch),16,HR,1.0,drift_60s,1.0,ECG
+IF (all ch),17,HR,1.0,drift_60s,1.0,ECG
+IF (all ch),19,HR,1.0,drift_60s,1.0,ECG
+IF (all ch),29,HR,1.0,drift_60s,1.0,ECG
+IF (all ch),34,HR,1.0,drift_60s,1.0,ECG
+IF (all ch),55,HR,1.0,drift_60s,1.0,ECG
+IF (all ch),60,HR,1.0,drift_60s,1.0,ECG
+Autoencoder,10,HR,1.0,drift_60s,1.0,ECG
+Autoencoder,16,HR,1.0,drift_60s,1.0,ECG
+Autoencoder,17,HR,1.0,drift_60s,1.0,ECG
+Autoencoder,19,HR,1.0,drift_60s,1.0,ECG
+Autoencoder,29,HR,1.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Autoencoder,34,HR,1.0,drift_60s,1.0,ECG
+Autoencoder,55,HR,1.0,drift_60s,2.0,ECG+PLETH
+Autoencoder,60,HR,1.0,drift_60s,1.0,ECG
+LSTM,10,HR,1.0,drift_60s,1.0,ECG
+LSTM,16,HR,1.0,drift_60s,1.0,ECG
+LSTM,17,HR,1.0,drift_60s,1.0,ECG
+LSTM,19,HR,1.0,drift_60s,1.0,ECG
+LSTM,29,HR,1.0,drift_60s,1.0,ECG
+LSTM,34,HR,1.0,drift_60s,1.0,ECG
+LSTM,55,HR,1.0,drift_60s,,
+LSTM,60,HR,1.0,drift_60s,1.0,ECG
+Redundancy,10,HR,1.0,ramp_10s,1.0,ECG
+Redundancy,16,HR,1.0,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Redundancy,17,HR,1.0,ramp_10s,2.0,ECG+PLETH
+Redundancy,19,HR,1.0,ramp_10s,1.0,ECG
+Redundancy,29,HR,1.0,ramp_10s,1.0,ECG
+Redundancy,34,HR,1.0,ramp_10s,1.0,ECG
+Redundancy,55,HR,1.0,ramp_10s,,
+Redundancy,60,HR,1.0,ramp_10s,,
+Learned,10,HR,1.0,ramp_10s,1.0,ECG
+Learned,16,HR,1.0,ramp_10s,1.0,ECG
+Learned,17,HR,1.0,ramp_10s,1.0,ECG
+Learned,19,HR,1.0,ramp_10s,1.0,ECG
+Learned,29,HR,1.0,ramp_10s,,
+Learned,34,HR,1.0,ramp_10s,1.0,ECG
+Learned,55,HR,1.0,ramp_10s,,
+Learned,60,HR,1.0,ramp_10s,1.0,ECG
+Combined,10,HR,1.0,ramp_10s,1.0,ECG
+Combined,16,HR,1.0,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Combined,17,HR,1.0,ramp_10s,,
+Combined,19,HR,1.0,ramp_10s,1.0,ECG
+Combined,29,HR,1.0,ramp_10s,2.0,ECG+PLETH
+Combined,34,HR,1.0,ramp_10s,1.0,ECG
+Combined,55,HR,1.0,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Combined,60,HR,1.0,ramp_10s,,
+IF (all ch),10,HR,1.0,ramp_10s,1.0,ECG
+IF (all ch),16,HR,1.0,ramp_10s,1.0,ECG
+IF (all ch),17,HR,1.0,ramp_10s,1.0,ECG
+IF (all ch),19,HR,1.0,ramp_10s,1.0,ECG
+IF (all ch),29,HR,1.0,ramp_10s,1.0,ECG
+IF (all ch),34,HR,1.0,ramp_10s,1.0,ECG
+IF (all ch),55,HR,1.0,ramp_10s,1.0,ECG
+IF (all ch),60,HR,1.0,ramp_10s,1.0,ECG
+Autoencoder,10,HR,1.0,ramp_10s,1.0,ECG
+Autoencoder,16,HR,1.0,ramp_10s,1.0,ECG
+Autoencoder,17,HR,1.0,ramp_10s,1.0,ECG
+Autoencoder,19,HR,1.0,ramp_10s,1.0,ECG
+Autoencoder,29,HR,1.0,ramp_10s,,
+Autoencoder,34,HR,1.0,ramp_10s,1.0,ECG
+Autoencoder,55,HR,1.0,ramp_10s,2.0,ECG+PLETH
+Autoencoder,60,HR,1.0,ramp_10s,1.0,ECG
+LSTM,10,HR,1.0,ramp_10s,1.0,ECG
+LSTM,16,HR,1.0,ramp_10s,1.0,ECG
+LSTM,17,HR,1.0,ramp_10s,1.0,ECG
+LSTM,19,HR,1.0,ramp_10s,1.0,ECG
+LSTM,29,HR,1.0,ramp_10s,2.0,ECG+PLETH
+LSTM,34,HR,1.0,ramp_10s,1.0,ECG
+LSTM,55,HR,1.0,ramp_10s,,
+LSTM,60,HR,1.0,ramp_10s,1.0,ECG
+Redundancy,10,HR,1.0,step,1.0,ECG
+Redundancy,16,HR,1.0,step,,
+Redundancy,17,HR,1.0,step,,
+Redundancy,19,HR,1.0,step,1.0,ECG
+Redundancy,29,HR,1.0,step,1.0,ECG
+Redundancy,34,HR,1.0,step,1.0,ECG
+Redundancy,55,HR,1.0,step,,
+Redundancy,60,HR,1.0,step,,
+Learned,10,HR,1.0,step,1.0,ECG
+Learned,16,HR,1.0,step,1.0,ECG
+Learned,17,HR,1.0,step,1.0,ECG
+Learned,19,HR,1.0,step,1.0,ECG
+Learned,29,HR,1.0,step,,
+Learned,34,HR,1.0,step,1.0,ECG
+Learned,55,HR,1.0,step,,
+Learned,60,HR,1.0,step,1.0,ECG
+Combined,10,HR,1.0,step,1.0,ECG
+Combined,16,HR,1.0,step,,
+Combined,17,HR,1.0,step,,
+Combined,19,HR,1.0,step,1.0,ECG
+Combined,29,HR,1.0,step,,
+Combined,34,HR,1.0,step,1.0,ECG
+Combined,55,HR,1.0,step,,
+Combined,60,HR,1.0,step,,
+IF (all ch),10,HR,1.0,step,1.0,ECG
+IF (all ch),16,HR,1.0,step,1.0,ECG
+IF (all ch),17,HR,1.0,step,1.0,ECG
+IF (all ch),19,HR,1.0,step,1.0,ECG
+IF (all ch),29,HR,1.0,step,1.0,ECG
+IF (all ch),34,HR,1.0,step,1.0,ECG
+IF (all ch),55,HR,1.0,step,,
+IF (all ch),60,HR,1.0,step,1.0,ECG
+Autoencoder,10,HR,1.0,step,1.0,ECG
+Autoencoder,16,HR,1.0,step,1.0,ECG
+Autoencoder,17,HR,1.0,step,1.0,ECG
+Autoencoder,19,HR,1.0,step,1.0,ECG
+Autoencoder,29,HR,1.0,step,,
+Autoencoder,34,HR,1.0,step,1.0,ECG
+Autoencoder,55,HR,1.0,step,2.0,ECG+PLETH
+Autoencoder,60,HR,1.0,step,1.0,ECG
+LSTM,10,HR,1.0,step,1.0,ECG
+LSTM,16,HR,1.0,step,1.0,ECG
+LSTM,17,HR,1.0,step,1.0,ECG
+LSTM,19,HR,1.0,step,1.0,ECG
+LSTM,29,HR,1.0,step,,
+LSTM,34,HR,1.0,step,1.0,ECG
+LSTM,55,HR,1.0,step,,
+LSTM,60,HR,1.0,step,1.0,ECG
+Redundancy,10,HR,2.0,drift_60s,2.0,ECG+ART_WAVE
+Redundancy,16,HR,2.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Redundancy,17,HR,2.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Redundancy,19,HR,2.0,drift_60s,1.0,ECG
+Redundancy,29,HR,2.0,drift_60s,1.0,ECG
+Redundancy,34,HR,2.0,drift_60s,1.0,ECG
+Redundancy,55,HR,2.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Redundancy,60,HR,2.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Learned,10,HR,2.0,drift_60s,,
+Learned,16,HR,2.0,drift_60s,1.0,ECG
+Learned,17,HR,2.0,drift_60s,1.0,ECG
+Learned,19,HR,2.0,drift_60s,1.0,ECG
+Learned,29,HR,2.0,drift_60s,,
+Learned,34,HR,2.0,drift_60s,1.0,ECG
+Learned,55,HR,2.0,drift_60s,,
+Learned,60,HR,2.0,drift_60s,1.0,ECG
+Combined,10,HR,2.0,drift_60s,1.0,ECG
+Combined,16,HR,2.0,drift_60s,,
+Combined,17,HR,2.0,drift_60s,2.0,ECG+PLETH
+Combined,19,HR,2.0,drift_60s,1.0,ECG
+Combined,29,HR,2.0,drift_60s,,
+Combined,34,HR,2.0,drift_60s,1.0,ECG
+Combined,55,HR,2.0,drift_60s,,
+Combined,60,HR,2.0,drift_60s,2.0,ECG+ART_WAVE
+IF (all ch),10,HR,2.0,drift_60s,1.0,ECG
+IF (all ch),16,HR,2.0,drift_60s,1.0,ECG
+IF (all ch),17,HR,2.0,drift_60s,1.0,ECG
+IF (all ch),19,HR,2.0,drift_60s,,
+IF (all ch),29,HR,2.0,drift_60s,1.0,ECG
+IF (all ch),34,HR,2.0,drift_60s,1.0,ECG
+IF (all ch),55,HR,2.0,drift_60s,1.0,ECG
+IF (all ch),60,HR,2.0,drift_60s,1.0,ECG
+Autoencoder,10,HR,2.0,drift_60s,1.0,ECG
+Autoencoder,16,HR,2.0,drift_60s,1.0,ECG
+Autoencoder,17,HR,2.0,drift_60s,1.0,ECG
+Autoencoder,19,HR,2.0,drift_60s,1.0,ECG
+Autoencoder,29,HR,2.0,drift_60s,,
+Autoencoder,34,HR,2.0,drift_60s,1.0,ECG
+Autoencoder,55,HR,2.0,drift_60s,2.0,ECG+PLETH
+Autoencoder,60,HR,2.0,drift_60s,1.0,ECG
+LSTM,10,HR,2.0,drift_60s,,
+LSTM,16,HR,2.0,drift_60s,,
+LSTM,17,HR,2.0,drift_60s,1.0,ECG
+LSTM,19,HR,2.0,drift_60s,1.0,ECG
+LSTM,29,HR,2.0,drift_60s,,
+LSTM,34,HR,2.0,drift_60s,1.0,ECG
+LSTM,55,HR,2.0,drift_60s,,
+LSTM,60,HR,2.0,drift_60s,1.0,ECG
+Redundancy,10,HR,2.0,ramp_10s,2.0,ECG+ART_WAVE
+Redundancy,16,HR,2.0,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Redundancy,17,HR,2.0,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Redundancy,19,HR,2.0,ramp_10s,,
+Redundancy,29,HR,2.0,ramp_10s,,
+Redundancy,34,HR,2.0,ramp_10s,2.0,ECG+PLETH
+Redundancy,55,HR,2.0,ramp_10s,,
+Redundancy,60,HR,2.0,ramp_10s,,
+Learned,10,HR,2.0,ramp_10s,,
+Learned,16,HR,2.0,ramp_10s,,
+Learned,17,HR,2.0,ramp_10s,1.0,ECG
+Learned,19,HR,2.0,ramp_10s,1.0,ECG
+Learned,29,HR,2.0,ramp_10s,,
+Learned,34,HR,2.0,ramp_10s,1.0,ECG
+Learned,55,HR,2.0,ramp_10s,,
+Learned,60,HR,2.0,ramp_10s,1.0,ECG
+Combined,10,HR,2.0,ramp_10s,,
+Combined,16,HR,2.0,ramp_10s,,
+Combined,17,HR,2.0,ramp_10s,2.0,ECG+PLETH
+Combined,19,HR,2.0,ramp_10s,1.0,ECG
+Combined,29,HR,2.0,ramp_10s,,
+Combined,34,HR,2.0,ramp_10s,1.0,ECG
+Combined,55,HR,2.0,ramp_10s,,
+Combined,60,HR,2.0,ramp_10s,2.0,ECG+ART_WAVE
+IF (all ch),10,HR,2.0,ramp_10s,1.0,ECG
+IF (all ch),16,HR,2.0,ramp_10s,1.0,ECG
+IF (all ch),17,HR,2.0,ramp_10s,1.0,ECG
+IF (all ch),19,HR,2.0,ramp_10s,,
+IF (all ch),29,HR,2.0,ramp_10s,1.0,ECG
+IF (all ch),34,HR,2.0,ramp_10s,1.0,ECG
+IF (all ch),55,HR,2.0,ramp_10s,,
+IF (all ch),60,HR,2.0,ramp_10s,1.0,ECG
+Autoencoder,10,HR,2.0,ramp_10s,1.0,ECG
+Autoencoder,16,HR,2.0,ramp_10s,2.0,ECG+PLETH
+Autoencoder,17,HR,2.0,ramp_10s,2.0,ECG+PLETH
+Autoencoder,19,HR,2.0,ramp_10s,,
+Autoencoder,29,HR,2.0,ramp_10s,,
+Autoencoder,34,HR,2.0,ramp_10s,1.0,ECG
+Autoencoder,55,HR,2.0,ramp_10s,2.0,ECG+PLETH
+Autoencoder,60,HR,2.0,ramp_10s,1.0,ECG
+LSTM,10,HR,2.0,ramp_10s,,
+LSTM,16,HR,2.0,ramp_10s,,
+LSTM,17,HR,2.0,ramp_10s,1.0,ECG
+LSTM,19,HR,2.0,ramp_10s,,
+LSTM,29,HR,2.0,ramp_10s,,
+LSTM,34,HR,2.0,ramp_10s,,
+LSTM,55,HR,2.0,ramp_10s,,
+LSTM,60,HR,2.0,ramp_10s,1.0,ECG
+Redundancy,10,HR,2.0,step,,
+Redundancy,16,HR,2.0,step,,
+Redundancy,17,HR,2.0,step,,
+Redundancy,19,HR,2.0,step,,
+Redundancy,29,HR,2.0,step,,
+Redundancy,34,HR,2.0,step,,
+Redundancy,55,HR,2.0,step,,
+Redundancy,60,HR,2.0,step,,
+Learned,10,HR,2.0,step,,
+Learned,16,HR,2.0,step,,
+Learned,17,HR,2.0,step,1.0,ECG
+Learned,19,HR,2.0,step,1.0,ECG
+Learned,29,HR,2.0,step,,
+Learned,34,HR,2.0,step,1.0,ECG
+Learned,55,HR,2.0,step,,
+Learned,60,HR,2.0,step,1.0,ECG
+Combined,10,HR,2.0,step,,
+Combined,16,HR,2.0,step,,
+Combined,17,HR,2.0,step,,
+Combined,19,HR,2.0,step,1.0,ECG
+Combined,29,HR,2.0,step,,
+Combined,34,HR,2.0,step,1.0,ECG
+Combined,55,HR,2.0,step,,
+Combined,60,HR,2.0,step,2.0,ECG+ART_WAVE
+IF (all ch),10,HR,2.0,step,1.0,ECG
+IF (all ch),16,HR,2.0,step,1.0,ECG
+IF (all ch),17,HR,2.0,step,1.0,ECG
+IF (all ch),19,HR,2.0,step,,
+IF (all ch),29,HR,2.0,step,1.0,ECG
+IF (all ch),34,HR,2.0,step,1.0,ECG
+IF (all ch),55,HR,2.0,step,,
+IF (all ch),60,HR,2.0,step,1.0,ECG
+Autoencoder,10,HR,2.0,step,1.0,ECG
+Autoencoder,16,HR,2.0,step,2.0,ECG+PLETH
+Autoencoder,17,HR,2.0,step,2.0,ECG+PLETH
+Autoencoder,19,HR,2.0,step,,
+Autoencoder,29,HR,2.0,step,,
+Autoencoder,34,HR,2.0,step,,
+Autoencoder,55,HR,2.0,step,2.0,ECG+PLETH
+Autoencoder,60,HR,2.0,step,1.0,ECG
+LSTM,10,HR,2.0,step,,
+LSTM,16,HR,2.0,step,,
+LSTM,17,HR,2.0,step,1.0,ECG
+LSTM,19,HR,2.0,step,,
+LSTM,29,HR,2.0,step,,
+LSTM,34,HR,2.0,step,,
+LSTM,55,HR,2.0,step,,
+LSTM,60,HR,2.0,step,1.0,ECG
+Redundancy,10,RR,0.25,drift_60s,,
+Redundancy,16,RR,0.25,drift_60s,,
+Redundancy,17,RR,0.25,drift_60s,,
+Redundancy,19,RR,0.25,drift_60s,,
+Redundancy,29,RR,0.25,drift_60s,,
+Redundancy,34,RR,0.25,drift_60s,,
+Redundancy,55,RR,0.25,drift_60s,,
+Redundancy,60,RR,0.25,drift_60s,,
+Learned,10,RR,0.25,drift_60s,1.0,MON_CAPNO
+Learned,16,RR,0.25,drift_60s,1.0,MON_CAPNO
+Learned,17,RR,0.25,drift_60s,1.0,MON_CAPNO
+Learned,19,RR,0.25,drift_60s,1.0,MON_CAPNO
+Learned,29,RR,0.25,drift_60s,1.0,MON_CAPNO
+Learned,34,RR,0.25,drift_60s,1.0,MON_CAPNO
+Learned,55,RR,0.25,drift_60s,1.0,MON_CAPNO
+Learned,60,RR,0.25,drift_60s,1.0,MON_CAPNO
+Combined,10,RR,0.25,drift_60s,1.0,MON_CAPNO
+Combined,16,RR,0.25,drift_60s,,
+Combined,17,RR,0.25,drift_60s,,
+Combined,19,RR,0.25,drift_60s,,
+Combined,29,RR,0.25,drift_60s,,
+Combined,34,RR,0.25,drift_60s,1.0,MON_CAPNO
+Combined,55,RR,0.25,drift_60s,,
+Combined,60,RR,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),10,RR,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),16,RR,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),17,RR,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),19,RR,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),29,RR,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),34,RR,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),55,RR,0.25,drift_60s,1.0,MON_CAPNO
+IF (all ch),60,RR,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,10,RR,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,16,RR,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,17,RR,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,19,RR,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,29,RR,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,34,RR,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,55,RR,0.25,drift_60s,1.0,MON_CAPNO
+Autoencoder,60,RR,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,10,RR,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,16,RR,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,17,RR,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,19,RR,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,29,RR,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,34,RR,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,55,RR,0.25,drift_60s,1.0,MON_CAPNO
+LSTM,60,RR,0.25,drift_60s,1.0,MON_CAPNO
+Redundancy,10,RR,0.25,ramp_10s,,
+Redundancy,16,RR,0.25,ramp_10s,,
+Redundancy,17,RR,0.25,ramp_10s,,
+Redundancy,19,RR,0.25,ramp_10s,,
+Redundancy,29,RR,0.25,ramp_10s,,
+Redundancy,34,RR,0.25,ramp_10s,,
+Redundancy,55,RR,0.25,ramp_10s,,
+Redundancy,60,RR,0.25,ramp_10s,,
+Learned,10,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,16,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,17,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,19,RR,0.25,ramp_10s,,
+Learned,29,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,34,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,55,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Learned,60,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Combined,10,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Combined,16,RR,0.25,ramp_10s,,
+Combined,17,RR,0.25,ramp_10s,,
+Combined,19,RR,0.25,ramp_10s,,
+Combined,29,RR,0.25,ramp_10s,,
+Combined,34,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Combined,55,RR,0.25,ramp_10s,,
+Combined,60,RR,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),10,RR,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),16,RR,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),17,RR,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),19,RR,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),29,RR,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),34,RR,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),55,RR,0.25,ramp_10s,1.0,MON_CAPNO
+IF (all ch),60,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,10,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,16,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,17,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,19,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,29,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,34,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,55,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Autoencoder,60,RR,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,10,RR,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,16,RR,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,17,RR,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,19,RR,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,29,RR,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,34,RR,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,55,RR,0.25,ramp_10s,1.0,MON_CAPNO
+LSTM,60,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Redundancy,10,RR,0.25,step,,
+Redundancy,16,RR,0.25,step,,
+Redundancy,17,RR,0.25,step,,
+Redundancy,19,RR,0.25,step,,
+Redundancy,29,RR,0.25,step,,
+Redundancy,34,RR,0.25,step,,
+Redundancy,55,RR,0.25,step,,
+Redundancy,60,RR,0.25,step,,
+Learned,10,RR,0.25,step,1.0,MON_CAPNO
+Learned,16,RR,0.25,step,1.0,MON_CAPNO
+Learned,17,RR,0.25,step,1.0,MON_CAPNO
+Learned,19,RR,0.25,step,,
+Learned,29,RR,0.25,step,1.0,MON_CAPNO
+Learned,34,RR,0.25,step,1.0,MON_CAPNO
+Learned,55,RR,0.25,step,1.0,MON_CAPNO
+Learned,60,RR,0.25,step,1.0,MON_CAPNO
+Combined,10,RR,0.25,step,1.0,MON_CAPNO
+Combined,16,RR,0.25,step,,
+Combined,17,RR,0.25,step,,
+Combined,19,RR,0.25,step,,
+Combined,29,RR,0.25,step,,
+Combined,34,RR,0.25,step,1.0,MON_CAPNO
+Combined,55,RR,0.25,step,,
+Combined,60,RR,0.25,step,1.0,MON_CAPNO
+IF (all ch),10,RR,0.25,step,1.0,MON_CAPNO
+IF (all ch),16,RR,0.25,step,1.0,MON_CAPNO
+IF (all ch),17,RR,0.25,step,1.0,MON_CAPNO
+IF (all ch),19,RR,0.25,step,1.0,MON_CAPNO
+IF (all ch),29,RR,0.25,step,1.0,MON_CAPNO
+IF (all ch),34,RR,0.25,step,1.0,MON_CAPNO
+IF (all ch),55,RR,0.25,step,1.0,MON_CAPNO
+IF (all ch),60,RR,0.25,step,1.0,MON_CAPNO
+Autoencoder,10,RR,0.25,step,1.0,MON_CAPNO
+Autoencoder,16,RR,0.25,step,1.0,MON_CAPNO
+Autoencoder,17,RR,0.25,step,1.0,MON_CAPNO
+Autoencoder,19,RR,0.25,step,1.0,MON_CAPNO
+Autoencoder,29,RR,0.25,step,1.0,MON_CAPNO
+Autoencoder,34,RR,0.25,step,1.0,MON_CAPNO
+Autoencoder,55,RR,0.25,step,1.0,MON_CAPNO
+Autoencoder,60,RR,0.25,step,1.0,MON_CAPNO
+LSTM,10,RR,0.25,step,1.0,MON_CAPNO
+LSTM,16,RR,0.25,step,1.0,MON_CAPNO
+LSTM,17,RR,0.25,step,1.0,MON_CAPNO
+LSTM,19,RR,0.25,step,1.0,MON_CAPNO
+LSTM,29,RR,0.25,step,1.0,MON_CAPNO
+LSTM,34,RR,0.25,step,1.0,MON_CAPNO
+LSTM,55,RR,0.25,step,1.0,MON_CAPNO
+LSTM,60,RR,0.25,step,1.0,MON_CAPNO
+Redundancy,10,RR,0.5,drift_60s,,
+Redundancy,16,RR,0.5,drift_60s,,
+Redundancy,17,RR,0.5,drift_60s,,
+Redundancy,19,RR,0.5,drift_60s,,
+Redundancy,29,RR,0.5,drift_60s,,
+Redundancy,34,RR,0.5,drift_60s,,
+Redundancy,55,RR,0.5,drift_60s,,
+Redundancy,60,RR,0.5,drift_60s,,
+Learned,10,RR,0.5,drift_60s,1.0,MON_CAPNO
+Learned,16,RR,0.5,drift_60s,1.0,MON_CAPNO
+Learned,17,RR,0.5,drift_60s,,
+Learned,19,RR,0.5,drift_60s,1.0,MON_CAPNO
+Learned,29,RR,0.5,drift_60s,1.0,MON_CAPNO
+Learned,34,RR,0.5,drift_60s,1.0,MON_CAPNO
+Learned,55,RR,0.5,drift_60s,1.0,MON_CAPNO
+Learned,60,RR,0.5,drift_60s,1.0,MON_CAPNO
+Combined,10,RR,0.5,drift_60s,1.0,MON_CAPNO
+Combined,16,RR,0.5,drift_60s,,
+Combined,17,RR,0.5,drift_60s,,
+Combined,19,RR,0.5,drift_60s,,
+Combined,29,RR,0.5,drift_60s,,
+Combined,34,RR,0.5,drift_60s,1.0,MON_CAPNO
+Combined,55,RR,0.5,drift_60s,,
+Combined,60,RR,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),10,RR,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),16,RR,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),17,RR,0.5,drift_60s,,
+IF (all ch),19,RR,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),29,RR,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),34,RR,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),55,RR,0.5,drift_60s,1.0,MON_CAPNO
+IF (all ch),60,RR,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,10,RR,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,16,RR,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,17,RR,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,19,RR,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,29,RR,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,34,RR,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,55,RR,0.5,drift_60s,1.0,MON_CAPNO
+Autoencoder,60,RR,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,10,RR,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,16,RR,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,17,RR,0.5,drift_60s,,
+LSTM,19,RR,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,29,RR,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,34,RR,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,55,RR,0.5,drift_60s,1.0,MON_CAPNO
+LSTM,60,RR,0.5,drift_60s,1.0,MON_CAPNO
+Redundancy,10,RR,0.5,ramp_10s,,
+Redundancy,16,RR,0.5,ramp_10s,,
+Redundancy,17,RR,0.5,ramp_10s,,
+Redundancy,19,RR,0.5,ramp_10s,,
+Redundancy,29,RR,0.5,ramp_10s,,
+Redundancy,34,RR,0.5,ramp_10s,,
+Redundancy,55,RR,0.5,ramp_10s,,
+Redundancy,60,RR,0.5,ramp_10s,,
+Learned,10,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,16,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,17,RR,0.5,ramp_10s,,
+Learned,19,RR,0.5,ramp_10s,2.0,MON_CAPNO+VENT
+Learned,29,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,34,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,55,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Learned,60,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Combined,10,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Combined,16,RR,0.5,ramp_10s,,
+Combined,17,RR,0.5,ramp_10s,,
+Combined,19,RR,0.5,ramp_10s,,
+Combined,29,RR,0.5,ramp_10s,,
+Combined,34,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Combined,55,RR,0.5,ramp_10s,,
+Combined,60,RR,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),10,RR,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),16,RR,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),17,RR,0.5,ramp_10s,,
+IF (all ch),19,RR,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),29,RR,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),34,RR,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),55,RR,0.5,ramp_10s,1.0,MON_CAPNO
+IF (all ch),60,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,10,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,16,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,17,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,19,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,29,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,34,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,55,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Autoencoder,60,RR,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,10,RR,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,16,RR,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,17,RR,0.5,ramp_10s,,
+LSTM,19,RR,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,29,RR,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,34,RR,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,55,RR,0.5,ramp_10s,1.0,MON_CAPNO
+LSTM,60,RR,0.5,ramp_10s,1.0,MON_CAPNO
+Redundancy,10,RR,0.5,step,,
+Redundancy,16,RR,0.5,step,,
+Redundancy,17,RR,0.5,step,,
+Redundancy,19,RR,0.5,step,,
+Redundancy,29,RR,0.5,step,,
+Redundancy,34,RR,0.5,step,,
+Redundancy,55,RR,0.5,step,,
+Redundancy,60,RR,0.5,step,,
+Learned,10,RR,0.5,step,1.0,MON_CAPNO
+Learned,16,RR,0.5,step,1.0,MON_CAPNO
+Learned,17,RR,0.5,step,,
+Learned,19,RR,0.5,step,2.0,MON_CAPNO+VENT
+Learned,29,RR,0.5,step,1.0,MON_CAPNO
+Learned,34,RR,0.5,step,1.0,MON_CAPNO
+Learned,55,RR,0.5,step,1.0,MON_CAPNO
+Learned,60,RR,0.5,step,1.0,MON_CAPNO
+Combined,10,RR,0.5,step,1.0,MON_CAPNO
+Combined,16,RR,0.5,step,,
+Combined,17,RR,0.5,step,,
+Combined,19,RR,0.5,step,,
+Combined,29,RR,0.5,step,,
+Combined,34,RR,0.5,step,,
+Combined,55,RR,0.5,step,,
+Combined,60,RR,0.5,step,,
+IF (all ch),10,RR,0.5,step,1.0,MON_CAPNO
+IF (all ch),16,RR,0.5,step,1.0,MON_CAPNO
+IF (all ch),17,RR,0.5,step,,
+IF (all ch),19,RR,0.5,step,1.0,MON_CAPNO
+IF (all ch),29,RR,0.5,step,1.0,MON_CAPNO
+IF (all ch),34,RR,0.5,step,1.0,MON_CAPNO
+IF (all ch),55,RR,0.5,step,1.0,MON_CAPNO
+IF (all ch),60,RR,0.5,step,1.0,MON_CAPNO
+Autoencoder,10,RR,0.5,step,1.0,MON_CAPNO
+Autoencoder,16,RR,0.5,step,1.0,MON_CAPNO
+Autoencoder,17,RR,0.5,step,1.0,MON_CAPNO
+Autoencoder,19,RR,0.5,step,1.0,MON_CAPNO
+Autoencoder,29,RR,0.5,step,1.0,MON_CAPNO
+Autoencoder,34,RR,0.5,step,1.0,MON_CAPNO
+Autoencoder,55,RR,0.5,step,1.0,MON_CAPNO
+Autoencoder,60,RR,0.5,step,1.0,MON_CAPNO
+LSTM,10,RR,0.5,step,1.0,MON_CAPNO
+LSTM,16,RR,0.5,step,1.0,MON_CAPNO
+LSTM,17,RR,0.5,step,,
+LSTM,19,RR,0.5,step,1.0,MON_CAPNO
+LSTM,29,RR,0.5,step,1.0,MON_CAPNO
+LSTM,34,RR,0.5,step,1.0,MON_CAPNO
+LSTM,55,RR,0.5,step,1.0,MON_CAPNO
+LSTM,60,RR,0.5,step,1.0,MON_CAPNO
+Redundancy,10,RR,1.0,drift_60s,,
+Redundancy,16,RR,1.0,drift_60s,,
+Redundancy,17,RR,1.0,drift_60s,,
+Redundancy,19,RR,1.0,drift_60s,,
+Redundancy,29,RR,1.0,drift_60s,,
+Redundancy,34,RR,1.0,drift_60s,,
+Redundancy,55,RR,1.0,drift_60s,,
+Redundancy,60,RR,1.0,drift_60s,,
+Learned,10,RR,1.0,drift_60s,1.0,MON_CAPNO
+Learned,16,RR,1.0,drift_60s,,
+Learned,17,RR,1.0,drift_60s,1.0,MON_CAPNO
+Learned,19,RR,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Learned,29,RR,1.0,drift_60s,1.0,MON_CAPNO
+Learned,34,RR,1.0,drift_60s,1.0,MON_CAPNO
+Learned,55,RR,1.0,drift_60s,,
+Learned,60,RR,1.0,drift_60s,1.0,MON_CAPNO
+Combined,10,RR,1.0,drift_60s,1.0,MON_CAPNO
+Combined,16,RR,1.0,drift_60s,,
+Combined,17,RR,1.0,drift_60s,,
+Combined,19,RR,1.0,drift_60s,,
+Combined,29,RR,1.0,drift_60s,1.0,MON_CAPNO
+Combined,34,RR,1.0,drift_60s,1.0,MON_CAPNO
+Combined,55,RR,1.0,drift_60s,,
+Combined,60,RR,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),10,RR,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),16,RR,1.0,drift_60s,,
+IF (all ch),17,RR,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),19,RR,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),29,RR,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),34,RR,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),55,RR,1.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),60,RR,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,10,RR,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,16,RR,1.0,drift_60s,,
+Autoencoder,17,RR,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Autoencoder,19,RR,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Autoencoder,29,RR,1.0,drift_60s,3.0,MON_CAPNO+VENT+MACHINE_CAPNO
+Autoencoder,34,RR,1.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,55,RR,1.0,drift_60s,,
+Autoencoder,60,RR,1.0,drift_60s,,
+LSTM,10,RR,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,16,RR,1.0,drift_60s,,
+LSTM,17,RR,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,19,RR,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+LSTM,29,RR,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,34,RR,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,55,RR,1.0,drift_60s,1.0,MON_CAPNO
+LSTM,60,RR,1.0,drift_60s,1.0,MON_CAPNO
+Redundancy,10,RR,1.0,ramp_10s,,
+Redundancy,16,RR,1.0,ramp_10s,,
+Redundancy,17,RR,1.0,ramp_10s,,
+Redundancy,19,RR,1.0,ramp_10s,,
+Redundancy,29,RR,1.0,ramp_10s,,
+Redundancy,34,RR,1.0,ramp_10s,,
+Redundancy,55,RR,1.0,ramp_10s,,
+Redundancy,60,RR,1.0,ramp_10s,,
+Learned,10,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,16,RR,1.0,ramp_10s,,
+Learned,17,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,19,RR,1.0,ramp_10s,,
+Learned,29,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Learned,34,RR,1.0,ramp_10s,,
+Learned,55,RR,1.0,ramp_10s,,
+Learned,60,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Combined,10,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Combined,16,RR,1.0,ramp_10s,,
+Combined,17,RR,1.0,ramp_10s,,
+Combined,19,RR,1.0,ramp_10s,,
+Combined,29,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Combined,34,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Combined,55,RR,1.0,ramp_10s,,
+Combined,60,RR,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),10,RR,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),16,RR,1.0,ramp_10s,,
+IF (all ch),17,RR,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),19,RR,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),29,RR,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),34,RR,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),55,RR,1.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),60,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,10,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,16,RR,1.0,ramp_10s,,
+Autoencoder,17,RR,1.0,ramp_10s,,
+Autoencoder,19,RR,1.0,ramp_10s,,
+Autoencoder,29,RR,1.0,ramp_10s,,
+Autoencoder,34,RR,1.0,ramp_10s,,
+Autoencoder,55,RR,1.0,ramp_10s,,
+Autoencoder,60,RR,1.0,ramp_10s,,
+LSTM,10,RR,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,16,RR,1.0,ramp_10s,,
+LSTM,17,RR,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,19,RR,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+LSTM,29,RR,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,34,RR,1.0,ramp_10s,,
+LSTM,55,RR,1.0,ramp_10s,1.0,MON_CAPNO
+LSTM,60,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Redundancy,10,RR,1.0,step,,
+Redundancy,16,RR,1.0,step,,
+Redundancy,17,RR,1.0,step,,
+Redundancy,19,RR,1.0,step,,
+Redundancy,29,RR,1.0,step,,
+Redundancy,34,RR,1.0,step,,
+Redundancy,55,RR,1.0,step,,
+Redundancy,60,RR,1.0,step,,
+Learned,10,RR,1.0,step,1.0,MON_CAPNO
+Learned,16,RR,1.0,step,,
+Learned,17,RR,1.0,step,1.0,MON_CAPNO
+Learned,19,RR,1.0,step,,
+Learned,29,RR,1.0,step,1.0,MON_CAPNO
+Learned,34,RR,1.0,step,,
+Learned,55,RR,1.0,step,,
+Learned,60,RR,1.0,step,1.0,MON_CAPNO
+Combined,10,RR,1.0,step,1.0,MON_CAPNO
+Combined,16,RR,1.0,step,,
+Combined,17,RR,1.0,step,,
+Combined,19,RR,1.0,step,,
+Combined,29,RR,1.0,step,,
+Combined,34,RR,1.0,step,1.0,MON_CAPNO
+Combined,55,RR,1.0,step,,
+Combined,60,RR,1.0,step,1.0,MON_CAPNO
+IF (all ch),10,RR,1.0,step,1.0,MON_CAPNO
+IF (all ch),16,RR,1.0,step,,
+IF (all ch),17,RR,1.0,step,1.0,MON_CAPNO
+IF (all ch),19,RR,1.0,step,1.0,MON_CAPNO
+IF (all ch),29,RR,1.0,step,1.0,MON_CAPNO
+IF (all ch),34,RR,1.0,step,1.0,MON_CAPNO
+IF (all ch),55,RR,1.0,step,1.0,MON_CAPNO
+IF (all ch),60,RR,1.0,step,1.0,MON_CAPNO
+Autoencoder,10,RR,1.0,step,1.0,MON_CAPNO
+Autoencoder,16,RR,1.0,step,,
+Autoencoder,17,RR,1.0,step,,
+Autoencoder,19,RR,1.0,step,,
+Autoencoder,29,RR,1.0,step,,
+Autoencoder,34,RR,1.0,step,,
+Autoencoder,55,RR,1.0,step,,
+Autoencoder,60,RR,1.0,step,,
+LSTM,10,RR,1.0,step,1.0,MON_CAPNO
+LSTM,16,RR,1.0,step,,
+LSTM,17,RR,1.0,step,1.0,MON_CAPNO
+LSTM,19,RR,1.0,step,,
+LSTM,29,RR,1.0,step,1.0,MON_CAPNO
+LSTM,34,RR,1.0,step,,
+LSTM,55,RR,1.0,step,1.0,MON_CAPNO
+LSTM,60,RR,1.0,step,1.0,MON_CAPNO
+Redundancy,10,RR,2.0,drift_60s,,
+Redundancy,16,RR,2.0,drift_60s,,
+Redundancy,17,RR,2.0,drift_60s,,
+Redundancy,19,RR,2.0,drift_60s,,
+Redundancy,29,RR,2.0,drift_60s,,
+Redundancy,34,RR,2.0,drift_60s,,
+Redundancy,55,RR,2.0,drift_60s,,
+Redundancy,60,RR,2.0,drift_60s,,
+Learned,10,RR,2.0,drift_60s,1.0,MON_CAPNO
+Learned,16,RR,2.0,drift_60s,,
+Learned,17,RR,2.0,drift_60s,3.0,MON_CAPNO+VENT+MACHINE_CAPNO
+Learned,19,RR,2.0,drift_60s,,
+Learned,29,RR,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Learned,34,RR,2.0,drift_60s,,
+Learned,55,RR,2.0,drift_60s,,
+Learned,60,RR,2.0,drift_60s,1.0,MON_CAPNO
+Combined,10,RR,2.0,drift_60s,1.0,MON_CAPNO
+Combined,16,RR,2.0,drift_60s,,
+Combined,17,RR,2.0,drift_60s,,
+Combined,19,RR,2.0,drift_60s,,
+Combined,29,RR,2.0,drift_60s,,
+Combined,34,RR,2.0,drift_60s,,
+Combined,55,RR,2.0,drift_60s,,
+Combined,60,RR,2.0,drift_60s,,
+IF (all ch),10,RR,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),16,RR,2.0,drift_60s,,
+IF (all ch),17,RR,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),19,RR,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),29,RR,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),34,RR,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),55,RR,2.0,drift_60s,1.0,MON_CAPNO
+IF (all ch),60,RR,2.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,10,RR,2.0,drift_60s,1.0,MON_CAPNO
+Autoencoder,16,RR,2.0,drift_60s,,
+Autoencoder,17,RR,2.0,drift_60s,,
+Autoencoder,19,RR,2.0,drift_60s,,
+Autoencoder,29,RR,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Autoencoder,34,RR,2.0,drift_60s,,
+Autoencoder,55,RR,2.0,drift_60s,,
+Autoencoder,60,RR,2.0,drift_60s,1.0,MON_CAPNO
+LSTM,10,RR,2.0,drift_60s,1.0,MON_CAPNO
+LSTM,16,RR,2.0,drift_60s,,
+LSTM,17,RR,2.0,drift_60s,,
+LSTM,19,RR,2.0,drift_60s,,
+LSTM,29,RR,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+LSTM,34,RR,2.0,drift_60s,,
+LSTM,55,RR,2.0,drift_60s,,
+LSTM,60,RR,2.0,drift_60s,1.0,MON_CAPNO
+Redundancy,10,RR,2.0,ramp_10s,,
+Redundancy,16,RR,2.0,ramp_10s,,
+Redundancy,17,RR,2.0,ramp_10s,,
+Redundancy,19,RR,2.0,ramp_10s,,
+Redundancy,29,RR,2.0,ramp_10s,,
+Redundancy,34,RR,2.0,ramp_10s,,
+Redundancy,55,RR,2.0,ramp_10s,,
+Redundancy,60,RR,2.0,ramp_10s,,
+Learned,10,RR,2.0,ramp_10s,1.0,MON_CAPNO
+Learned,16,RR,2.0,ramp_10s,,
+Learned,17,RR,2.0,ramp_10s,,
+Learned,19,RR,2.0,ramp_10s,,
+Learned,29,RR,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Learned,34,RR,2.0,ramp_10s,,
+Learned,55,RR,2.0,ramp_10s,,
+Learned,60,RR,2.0,ramp_10s,1.0,MON_CAPNO
+Combined,10,RR,2.0,ramp_10s,1.0,MON_CAPNO
+Combined,16,RR,2.0,ramp_10s,,
+Combined,17,RR,2.0,ramp_10s,,
+Combined,19,RR,2.0,ramp_10s,,
+Combined,29,RR,2.0,ramp_10s,,
+Combined,34,RR,2.0,ramp_10s,,
+Combined,55,RR,2.0,ramp_10s,,
+Combined,60,RR,2.0,ramp_10s,,
+IF (all ch),10,RR,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),16,RR,2.0,ramp_10s,,
+IF (all ch),17,RR,2.0,ramp_10s,,
+IF (all ch),19,RR,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),29,RR,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),34,RR,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),55,RR,2.0,ramp_10s,1.0,MON_CAPNO
+IF (all ch),60,RR,2.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,10,RR,2.0,ramp_10s,1.0,MON_CAPNO
+Autoencoder,16,RR,2.0,ramp_10s,,
+Autoencoder,17,RR,2.0,ramp_10s,,
+Autoencoder,19,RR,2.0,ramp_10s,,
+Autoencoder,29,RR,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Autoencoder,34,RR,2.0,ramp_10s,,
+Autoencoder,55,RR,2.0,ramp_10s,,
+Autoencoder,60,RR,2.0,ramp_10s,1.0,MON_CAPNO
+LSTM,10,RR,2.0,ramp_10s,1.0,MON_CAPNO
+LSTM,16,RR,2.0,ramp_10s,,
+LSTM,17,RR,2.0,ramp_10s,,
+LSTM,19,RR,2.0,ramp_10s,,
+LSTM,29,RR,2.0,ramp_10s,,
+LSTM,34,RR,2.0,ramp_10s,,
+LSTM,55,RR,2.0,ramp_10s,,
+LSTM,60,RR,2.0,ramp_10s,,
+Redundancy,10,RR,2.0,step,,
+Redundancy,16,RR,2.0,step,,
+Redundancy,17,RR,2.0,step,,
+Redundancy,19,RR,2.0,step,,
+Redundancy,29,RR,2.0,step,,
+Redundancy,34,RR,2.0,step,,
+Redundancy,55,RR,2.0,step,,
+Redundancy,60,RR,2.0,step,,
+Learned,10,RR,2.0,step,1.0,MON_CAPNO
+Learned,16,RR,2.0,step,,
+Learned,17,RR,2.0,step,,
+Learned,19,RR,2.0,step,,
+Learned,29,RR,2.0,step,,
+Learned,34,RR,2.0,step,,
+Learned,55,RR,2.0,step,,
+Learned,60,RR,2.0,step,1.0,MON_CAPNO
+Combined,10,RR,2.0,step,1.0,MON_CAPNO
+Combined,16,RR,2.0,step,,
+Combined,17,RR,2.0,step,,
+Combined,19,RR,2.0,step,,
+Combined,29,RR,2.0,step,,
+Combined,34,RR,2.0,step,,
+Combined,55,RR,2.0,step,,
+Combined,60,RR,2.0,step,,
+IF (all ch),10,RR,2.0,step,1.0,MON_CAPNO
+IF (all ch),16,RR,2.0,step,1.0,MON_CAPNO
+IF (all ch),17,RR,2.0,step,,
+IF (all ch),19,RR,2.0,step,1.0,MON_CAPNO
+IF (all ch),29,RR,2.0,step,1.0,MON_CAPNO
+IF (all ch),34,RR,2.0,step,1.0,MON_CAPNO
+IF (all ch),55,RR,2.0,step,1.0,MON_CAPNO
+IF (all ch),60,RR,2.0,step,1.0,MON_CAPNO
+Autoencoder,10,RR,2.0,step,1.0,MON_CAPNO
+Autoencoder,16,RR,2.0,step,,
+Autoencoder,17,RR,2.0,step,,
+Autoencoder,19,RR,2.0,step,,
+Autoencoder,29,RR,2.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Autoencoder,34,RR,2.0,step,,
+Autoencoder,55,RR,2.0,step,,
+Autoencoder,60,RR,2.0,step,1.0,MON_CAPNO
+LSTM,10,RR,2.0,step,1.0,MON_CAPNO
+LSTM,16,RR,2.0,step,,
+LSTM,17,RR,2.0,step,,
+LSTM,19,RR,2.0,step,,
+LSTM,29,RR,2.0,step,,
+LSTM,34,RR,2.0,step,,
+LSTM,55,RR,2.0,step,,
+LSTM,60,RR,2.0,step,,
+Split OR (5%+5%),10,BP,0.25,drift_60s,1.0,ART
+Split OR (5%+5%),16,BP,0.25,drift_60s,1.0,ART
+Split OR (5%+5%),17,BP,0.25,drift_60s,1.0,ART
+Split OR (5%+5%),19,BP,0.25,drift_60s,1.0,ART
+Split OR (5%+5%),29,BP,0.25,drift_60s,1.0,ART
+Split OR (5%+5%),34,BP,0.25,drift_60s,1.0,ART
+Split OR (5%+5%),55,BP,0.25,drift_60s,1.0,ART
+Split OR (5%+5%),60,BP,0.25,drift_60s,1.0,ART
+Split OR (5%+5%),10,BP,0.25,ramp_10s,1.0,ART
+Split OR (5%+5%),16,BP,0.25,ramp_10s,1.0,ART
+Split OR (5%+5%),17,BP,0.25,ramp_10s,1.0,ART
+Split OR (5%+5%),19,BP,0.25,ramp_10s,1.0,ART
+Split OR (5%+5%),29,BP,0.25,ramp_10s,1.0,ART
+Split OR (5%+5%),34,BP,0.25,ramp_10s,1.0,ART
+Split OR (5%+5%),55,BP,0.25,ramp_10s,1.0,ART
+Split OR (5%+5%),60,BP,0.25,ramp_10s,1.0,ART
+Split OR (5%+5%),10,BP,0.25,step,1.0,ART
+Split OR (5%+5%),16,BP,0.25,step,1.0,ART
+Split OR (5%+5%),17,BP,0.25,step,1.0,ART
+Split OR (5%+5%),19,BP,0.25,step,1.0,ART
+Split OR (5%+5%),29,BP,0.25,step,1.0,ART
+Split OR (5%+5%),34,BP,0.25,step,1.0,ART
+Split OR (5%+5%),55,BP,0.25,step,1.0,ART
+Split OR (5%+5%),60,BP,0.25,step,1.0,ART
+Split OR (5%+5%),10,BP,0.5,drift_60s,1.0,ART
+Split OR (5%+5%),16,BP,0.5,drift_60s,1.0,ART
+Split OR (5%+5%),17,BP,0.5,drift_60s,1.0,ART
+Split OR (5%+5%),19,BP,0.5,drift_60s,1.0,ART
+Split OR (5%+5%),29,BP,0.5,drift_60s,1.0,ART
+Split OR (5%+5%),34,BP,0.5,drift_60s,1.0,ART
+Split OR (5%+5%),55,BP,0.5,drift_60s,1.0,ART
+Split OR (5%+5%),60,BP,0.5,drift_60s,1.0,ART
+Split OR (5%+5%),10,BP,0.5,ramp_10s,1.0,ART
+Split OR (5%+5%),16,BP,0.5,ramp_10s,1.0,ART
+Split OR (5%+5%),17,BP,0.5,ramp_10s,1.0,ART
+Split OR (5%+5%),19,BP,0.5,ramp_10s,1.0,ART
+Split OR (5%+5%),29,BP,0.5,ramp_10s,1.0,ART
+Split OR (5%+5%),34,BP,0.5,ramp_10s,1.0,ART
+Split OR (5%+5%),55,BP,0.5,ramp_10s,1.0,ART
+Split OR (5%+5%),60,BP,0.5,ramp_10s,1.0,ART
+Split OR (5%+5%),10,BP,0.5,step,1.0,ART
+Split OR (5%+5%),16,BP,0.5,step,1.0,ART
+Split OR (5%+5%),17,BP,0.5,step,1.0,ART
+Split OR (5%+5%),19,BP,0.5,step,1.0,ART
+Split OR (5%+5%),29,BP,0.5,step,,
+Split OR (5%+5%),34,BP,0.5,step,1.0,ART
+Split OR (5%+5%),55,BP,0.5,step,1.0,ART
+Split OR (5%+5%),60,BP,0.5,step,,
+Split OR (5%+5%),10,BP,1.0,drift_60s,1.0,ART
+Split OR (5%+5%),16,BP,1.0,drift_60s,1.0,ART
+Split OR (5%+5%),17,BP,1.0,drift_60s,2.0,ART+EV1000
+Split OR (5%+5%),19,BP,1.0,drift_60s,1.0,ART
+Split OR (5%+5%),29,BP,1.0,drift_60s,2.0,ART+EV1000
+Split OR (5%+5%),34,BP,1.0,drift_60s,1.0,ART
+Split OR (5%+5%),55,BP,1.0,drift_60s,1.0,ART
+Split OR (5%+5%),60,BP,1.0,drift_60s,1.0,ART
+Split OR (5%+5%),10,BP,1.0,ramp_10s,1.0,ART
+Split OR (5%+5%),16,BP,1.0,ramp_10s,1.0,ART
+Split OR (5%+5%),17,BP,1.0,ramp_10s,2.0,ART+EV1000
+Split OR (5%+5%),19,BP,1.0,ramp_10s,1.0,ART
+Split OR (5%+5%),29,BP,1.0,ramp_10s,2.0,ART+EV1000
+Split OR (5%+5%),34,BP,1.0,ramp_10s,1.0,ART
+Split OR (5%+5%),55,BP,1.0,ramp_10s,1.0,ART
+Split OR (5%+5%),60,BP,1.0,ramp_10s,2.0,ART+EV1000
+Split OR (5%+5%),10,BP,1.0,step,1.0,ART
+Split OR (5%+5%),16,BP,1.0,step,1.0,ART
+Split OR (5%+5%),17,BP,1.0,step,,
+Split OR (5%+5%),19,BP,1.0,step,,
+Split OR (5%+5%),29,BP,1.0,step,,
+Split OR (5%+5%),34,BP,1.0,step,1.0,ART
+Split OR (5%+5%),55,BP,1.0,step,1.0,ART
+Split OR (5%+5%),60,BP,1.0,step,,
+Split OR (5%+5%),10,BP,2.0,drift_60s,1.0,ART
+Split OR (5%+5%),16,BP,2.0,drift_60s,,
+Split OR (5%+5%),17,BP,2.0,drift_60s,2.0,ART+EV1000
+Split OR (5%+5%),19,BP,2.0,drift_60s,1.0,ART
+Split OR (5%+5%),29,BP,2.0,drift_60s,,
+Split OR (5%+5%),34,BP,2.0,drift_60s,1.0,ART
+Split OR (5%+5%),55,BP,2.0,drift_60s,1.0,ART
+Split OR (5%+5%),60,BP,2.0,drift_60s,2.0,ART+EV1000
+Split OR (5%+5%),10,BP,2.0,ramp_10s,1.0,ART
+Split OR (5%+5%),16,BP,2.0,ramp_10s,,
+Split OR (5%+5%),17,BP,2.0,ramp_10s,2.0,ART+EV1000
+Split OR (5%+5%),19,BP,2.0,ramp_10s,,
+Split OR (5%+5%),29,BP,2.0,ramp_10s,,
+Split OR (5%+5%),34,BP,2.0,ramp_10s,1.0,ART
+Split OR (5%+5%),55,BP,2.0,ramp_10s,1.0,ART
+Split OR (5%+5%),60,BP,2.0,ramp_10s,2.0,ART+EV1000
+Split OR (5%+5%),10,BP,2.0,step,,
+Split OR (5%+5%),16,BP,2.0,step,,
+Split OR (5%+5%),17,BP,2.0,step,,
+Split OR (5%+5%),19,BP,2.0,step,,
+Split OR (5%+5%),29,BP,2.0,step,,
+Split OR (5%+5%),34,BP,2.0,step,1.0,ART
+Split OR (5%+5%),55,BP,2.0,step,,
+Split OR (5%+5%),60,BP,2.0,step,,
+Split OR (5%+5%),10,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),16,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),17,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),29,ETCO2,0.25,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),34,ETCO2,0.25,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,0.25,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),60,ETCO2,0.25,drift_60s,,
+Split OR (5%+5%),10,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,0.25,ramp_10s,,
+Split OR (5%+5%),17,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),29,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),34,ETCO2,0.25,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),60,ETCO2,0.25,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),10,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,0.25,step,,
+Split OR (5%+5%),17,ETCO2,0.25,step,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,0.25,step,1.0,MON_CAPNO
+Split OR (5%+5%),29,ETCO2,0.25,step,,
+Split OR (5%+5%),34,ETCO2,0.25,step,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),60,ETCO2,0.25,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),10,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),17,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),29,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),34,ETCO2,0.5,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,0.5,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),60,ETCO2,0.5,drift_60s,,
+Split OR (5%+5%),10,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),17,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),29,ETCO2,0.5,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),34,ETCO2,0.5,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,0.5,ramp_10s,,
+Split OR (5%+5%),60,ETCO2,0.5,ramp_10s,,
+Split OR (5%+5%),10,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,0.5,step,1.0,MON_CAPNO
+Split OR (5%+5%),17,ETCO2,0.5,step,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),29,ETCO2,0.5,step,,
+Split OR (5%+5%),34,ETCO2,0.5,step,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),60,ETCO2,0.5,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),10,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),17,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),29,ETCO2,1.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),34,ETCO2,1.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,1.0,drift_60s,,
+Split OR (5%+5%),60,ETCO2,1.0,drift_60s,,
+Split OR (5%+5%),10,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),17,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),29,ETCO2,1.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),34,ETCO2,1.0,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,1.0,ramp_10s,,
+Split OR (5%+5%),60,ETCO2,1.0,ramp_10s,,
+Split OR (5%+5%),10,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),17,ETCO2,1.0,step,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,1.0,step,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),29,ETCO2,1.0,step,,
+Split OR (5%+5%),34,ETCO2,1.0,step,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,1.0,step,,
+Split OR (5%+5%),60,ETCO2,1.0,step,,
+Split OR (5%+5%),10,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),17,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,2.0,drift_60s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),29,ETCO2,2.0,drift_60s,,
+Split OR (5%+5%),34,ETCO2,2.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,2.0,drift_60s,,
+Split OR (5%+5%),60,ETCO2,2.0,drift_60s,,
+Split OR (5%+5%),10,ETCO2,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),16,ETCO2,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),17,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,2.0,ramp_10s,2.0,MON_CAPNO+MACHINE_CAPNO
+Split OR (5%+5%),29,ETCO2,2.0,ramp_10s,,
+Split OR (5%+5%),34,ETCO2,2.0,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,2.0,ramp_10s,,
+Split OR (5%+5%),60,ETCO2,2.0,ramp_10s,,
+Split OR (5%+5%),10,ETCO2,2.0,step,,
+Split OR (5%+5%),16,ETCO2,2.0,step,,
+Split OR (5%+5%),17,ETCO2,2.0,step,1.0,MON_CAPNO
+Split OR (5%+5%),19,ETCO2,2.0,step,,
+Split OR (5%+5%),29,ETCO2,2.0,step,,
+Split OR (5%+5%),34,ETCO2,2.0,step,1.0,MON_CAPNO
+Split OR (5%+5%),55,ETCO2,2.0,step,,
+Split OR (5%+5%),60,ETCO2,2.0,step,,
+Split OR (5%+5%),10,HR,0.25,drift_60s,1.0,ECG
+Split OR (5%+5%),16,HR,0.25,drift_60s,1.0,ECG
+Split OR (5%+5%),17,HR,0.25,drift_60s,1.0,ECG
+Split OR (5%+5%),19,HR,0.25,drift_60s,1.0,ECG
+Split OR (5%+5%),29,HR,0.25,drift_60s,1.0,ECG
+Split OR (5%+5%),34,HR,0.25,drift_60s,1.0,ECG
+Split OR (5%+5%),55,HR,0.25,drift_60s,2.0,ECG+PLETH
+Split OR (5%+5%),60,HR,0.25,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),10,HR,0.25,ramp_10s,1.0,ECG
+Split OR (5%+5%),16,HR,0.25,ramp_10s,1.0,ECG
+Split OR (5%+5%),17,HR,0.25,ramp_10s,1.0,ECG
+Split OR (5%+5%),19,HR,0.25,ramp_10s,1.0,ECG
+Split OR (5%+5%),29,HR,0.25,ramp_10s,1.0,ECG
+Split OR (5%+5%),34,HR,0.25,ramp_10s,1.0,ECG
+Split OR (5%+5%),55,HR,0.25,ramp_10s,2.0,ECG+PLETH
+Split OR (5%+5%),60,HR,0.25,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),10,HR,0.25,step,1.0,ECG
+Split OR (5%+5%),16,HR,0.25,step,1.0,ECG
+Split OR (5%+5%),17,HR,0.25,step,1.0,ECG
+Split OR (5%+5%),19,HR,0.25,step,1.0,ECG
+Split OR (5%+5%),29,HR,0.25,step,1.0,ECG
+Split OR (5%+5%),34,HR,0.25,step,1.0,ECG
+Split OR (5%+5%),55,HR,0.25,step,2.0,ECG+PLETH
+Split OR (5%+5%),60,HR,0.25,step,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),10,HR,0.5,drift_60s,1.0,ECG
+Split OR (5%+5%),16,HR,0.5,drift_60s,1.0,ECG
+Split OR (5%+5%),17,HR,0.5,drift_60s,1.0,ECG
+Split OR (5%+5%),19,HR,0.5,drift_60s,1.0,ECG
+Split OR (5%+5%),29,HR,0.5,drift_60s,1.0,ECG
+Split OR (5%+5%),34,HR,0.5,drift_60s,1.0,ECG
+Split OR (5%+5%),55,HR,0.5,drift_60s,2.0,ECG+PLETH
+Split OR (5%+5%),60,HR,0.5,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),10,HR,0.5,ramp_10s,1.0,ECG
+Split OR (5%+5%),16,HR,0.5,ramp_10s,,
+Split OR (5%+5%),17,HR,0.5,ramp_10s,1.0,ECG
+Split OR (5%+5%),19,HR,0.5,ramp_10s,1.0,ECG
+Split OR (5%+5%),29,HR,0.5,ramp_10s,1.0,ECG
+Split OR (5%+5%),34,HR,0.5,ramp_10s,2.0,ECG+ART_WAVE
+Split OR (5%+5%),55,HR,0.5,ramp_10s,2.0,ECG+PLETH
+Split OR (5%+5%),60,HR,0.5,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),10,HR,0.5,step,1.0,ECG
+Split OR (5%+5%),16,HR,0.5,step,,
+Split OR (5%+5%),17,HR,0.5,step,1.0,ECG
+Split OR (5%+5%),19,HR,0.5,step,1.0,ECG
+Split OR (5%+5%),29,HR,0.5,step,1.0,ECG
+Split OR (5%+5%),34,HR,0.5,step,2.0,ECG+ART_WAVE
+Split OR (5%+5%),55,HR,0.5,step,,
+Split OR (5%+5%),60,HR,0.5,step,,
+Split OR (5%+5%),10,HR,1.0,drift_60s,1.0,ECG
+Split OR (5%+5%),16,HR,1.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),17,HR,1.0,drift_60s,2.0,ECG+PLETH
+Split OR (5%+5%),19,HR,1.0,drift_60s,1.0,ECG
+Split OR (5%+5%),29,HR,1.0,drift_60s,1.0,ECG
+Split OR (5%+5%),34,HR,1.0,drift_60s,1.0,ECG
+Split OR (5%+5%),55,HR,1.0,drift_60s,2.0,ECG+PLETH
+Split OR (5%+5%),60,HR,1.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),10,HR,1.0,ramp_10s,1.0,ECG
+Split OR (5%+5%),16,HR,1.0,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),17,HR,1.0,ramp_10s,,
+Split OR (5%+5%),19,HR,1.0,ramp_10s,1.0,ECG
+Split OR (5%+5%),29,HR,1.0,ramp_10s,2.0,ECG+PLETH
+Split OR (5%+5%),34,HR,1.0,ramp_10s,1.0,ECG
+Split OR (5%+5%),55,HR,1.0,ramp_10s,2.0,ECG+PLETH
+Split OR (5%+5%),60,HR,1.0,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),10,HR,1.0,step,1.0,ECG
+Split OR (5%+5%),16,HR,1.0,step,,
+Split OR (5%+5%),17,HR,1.0,step,,
+Split OR (5%+5%),19,HR,1.0,step,1.0,ECG
+Split OR (5%+5%),29,HR,1.0,step,,
+Split OR (5%+5%),34,HR,1.0,step,1.0,ECG
+Split OR (5%+5%),55,HR,1.0,step,,
+Split OR (5%+5%),60,HR,1.0,step,,
+Split OR (5%+5%),10,HR,2.0,drift_60s,1.0,ECG
+Split OR (5%+5%),16,HR,2.0,drift_60s,,
+Split OR (5%+5%),17,HR,2.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),19,HR,2.0,drift_60s,1.0,ECG
+Split OR (5%+5%),29,HR,2.0,drift_60s,,
+Split OR (5%+5%),34,HR,2.0,drift_60s,1.0,ECG
+Split OR (5%+5%),55,HR,2.0,drift_60s,,
+Split OR (5%+5%),60,HR,2.0,drift_60s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),10,HR,2.0,ramp_10s,1.0,ECG
+Split OR (5%+5%),16,HR,2.0,ramp_10s,,
+Split OR (5%+5%),17,HR,2.0,ramp_10s,3.0,ECG+PLETH+ART_WAVE
+Split OR (5%+5%),19,HR,2.0,ramp_10s,1.0,ECG
+Split OR (5%+5%),29,HR,2.0,ramp_10s,,
+Split OR (5%+5%),34,HR,2.0,ramp_10s,1.0,ECG
+Split OR (5%+5%),55,HR,2.0,ramp_10s,,
+Split OR (5%+5%),60,HR,2.0,ramp_10s,,
+Split OR (5%+5%),10,HR,2.0,step,1.0,ECG
+Split OR (5%+5%),16,HR,2.0,step,,
+Split OR (5%+5%),17,HR,2.0,step,,
+Split OR (5%+5%),19,HR,2.0,step,1.0,ECG
+Split OR (5%+5%),29,HR,2.0,step,,
+Split OR (5%+5%),34,HR,2.0,step,1.0,ECG
+Split OR (5%+5%),55,HR,2.0,step,,
+Split OR (5%+5%),60,HR,2.0,step,,
+Split OR (5%+5%),10,RR,0.25,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),16,RR,0.25,drift_60s,,
+Split OR (5%+5%),17,RR,0.25,drift_60s,,
+Split OR (5%+5%),19,RR,0.25,drift_60s,,
+Split OR (5%+5%),29,RR,0.25,drift_60s,,
+Split OR (5%+5%),34,RR,0.25,drift_60s,,
+Split OR (5%+5%),55,RR,0.25,drift_60s,,
+Split OR (5%+5%),60,RR,0.25,drift_60s,3.0,MON_CAPNO+VENT+MACHINE_CAPNO
+Split OR (5%+5%),10,RR,0.25,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),16,RR,0.25,ramp_10s,,
+Split OR (5%+5%),17,RR,0.25,ramp_10s,,
+Split OR (5%+5%),19,RR,0.25,ramp_10s,,
+Split OR (5%+5%),29,RR,0.25,ramp_10s,,
+Split OR (5%+5%),34,RR,0.25,ramp_10s,,
+Split OR (5%+5%),55,RR,0.25,ramp_10s,,
+Split OR (5%+5%),60,RR,0.25,ramp_10s,,
+Split OR (5%+5%),10,RR,0.25,step,1.0,MON_CAPNO
+Split OR (5%+5%),16,RR,0.25,step,,
+Split OR (5%+5%),17,RR,0.25,step,,
+Split OR (5%+5%),19,RR,0.25,step,,
+Split OR (5%+5%),29,RR,0.25,step,,
+Split OR (5%+5%),34,RR,0.25,step,,
+Split OR (5%+5%),55,RR,0.25,step,,
+Split OR (5%+5%),60,RR,0.25,step,,
+Split OR (5%+5%),10,RR,0.5,drift_60s,,
+Split OR (5%+5%),16,RR,0.5,drift_60s,,
+Split OR (5%+5%),17,RR,0.5,drift_60s,,
+Split OR (5%+5%),19,RR,0.5,drift_60s,,
+Split OR (5%+5%),29,RR,0.5,drift_60s,,
+Split OR (5%+5%),34,RR,0.5,drift_60s,,
+Split OR (5%+5%),55,RR,0.5,drift_60s,,
+Split OR (5%+5%),60,RR,0.5,drift_60s,,
+Split OR (5%+5%),10,RR,0.5,ramp_10s,,
+Split OR (5%+5%),16,RR,0.5,ramp_10s,,
+Split OR (5%+5%),17,RR,0.5,ramp_10s,,
+Split OR (5%+5%),19,RR,0.5,ramp_10s,,
+Split OR (5%+5%),29,RR,0.5,ramp_10s,,
+Split OR (5%+5%),34,RR,0.5,ramp_10s,,
+Split OR (5%+5%),55,RR,0.5,ramp_10s,,
+Split OR (5%+5%),60,RR,0.5,ramp_10s,,
+Split OR (5%+5%),10,RR,0.5,step,,
+Split OR (5%+5%),16,RR,0.5,step,,
+Split OR (5%+5%),17,RR,0.5,step,,
+Split OR (5%+5%),19,RR,0.5,step,,
+Split OR (5%+5%),29,RR,0.5,step,,
+Split OR (5%+5%),34,RR,0.5,step,,
+Split OR (5%+5%),55,RR,0.5,step,,
+Split OR (5%+5%),60,RR,0.5,step,,
+Split OR (5%+5%),10,RR,1.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),16,RR,1.0,drift_60s,,
+Split OR (5%+5%),17,RR,1.0,drift_60s,,
+Split OR (5%+5%),19,RR,1.0,drift_60s,,
+Split OR (5%+5%),29,RR,1.0,drift_60s,,
+Split OR (5%+5%),34,RR,1.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),55,RR,1.0,drift_60s,,
+Split OR (5%+5%),60,RR,1.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),10,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),16,RR,1.0,ramp_10s,,
+Split OR (5%+5%),17,RR,1.0,ramp_10s,,
+Split OR (5%+5%),19,RR,1.0,ramp_10s,,
+Split OR (5%+5%),29,RR,1.0,ramp_10s,,
+Split OR (5%+5%),34,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),55,RR,1.0,ramp_10s,,
+Split OR (5%+5%),60,RR,1.0,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),10,RR,1.0,step,,
+Split OR (5%+5%),16,RR,1.0,step,,
+Split OR (5%+5%),17,RR,1.0,step,,
+Split OR (5%+5%),19,RR,1.0,step,,
+Split OR (5%+5%),29,RR,1.0,step,,
+Split OR (5%+5%),34,RR,1.0,step,,
+Split OR (5%+5%),55,RR,1.0,step,,
+Split OR (5%+5%),60,RR,1.0,step,,
+Split OR (5%+5%),10,RR,2.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),16,RR,2.0,drift_60s,,
+Split OR (5%+5%),17,RR,2.0,drift_60s,,
+Split OR (5%+5%),19,RR,2.0,drift_60s,,
+Split OR (5%+5%),29,RR,2.0,drift_60s,,
+Split OR (5%+5%),34,RR,2.0,drift_60s,1.0,MON_CAPNO
+Split OR (5%+5%),55,RR,2.0,drift_60s,,
+Split OR (5%+5%),60,RR,2.0,drift_60s,,
+Split OR (5%+5%),10,RR,2.0,ramp_10s,1.0,MON_CAPNO
+Split OR (5%+5%),16,RR,2.0,ramp_10s,,
+Split OR (5%+5%),17,RR,2.0,ramp_10s,,
+Split OR (5%+5%),19,RR,2.0,ramp_10s,,
+Split OR (5%+5%),29,RR,2.0,ramp_10s,,
+Split OR (5%+5%),34,RR,2.0,ramp_10s,,
+Split OR (5%+5%),55,RR,2.0,ramp_10s,,
+Split OR (5%+5%),60,RR,2.0,ramp_10s,,
+Split OR (5%+5%),10,RR,2.0,step,,
+Split OR (5%+5%),16,RR,2.0,step,,
+Split OR (5%+5%),17,RR,2.0,step,,
+Split OR (5%+5%),19,RR,2.0,step,,
+Split OR (5%+5%),29,RR,2.0,step,,
+Split OR (5%+5%),34,RR,2.0,step,,
+Split OR (5%+5%),55,RR,2.0,step,,
+Split OR (5%+5%),60,RR,2.0,step,,

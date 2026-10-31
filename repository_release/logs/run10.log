@@ -1,0 +1,53 @@
+{'case': 10, 'train_rows': 5423, 'cal_r2': np.float64(0.302198397686526), 'resid_scale': np.float64(11.223932540022911), 'has_evm': False, 'has_cuff': True}
+{'case': 16, 'train_rows': 3333, 'cal_r2': np.float64(-0.269099882828463), 'resid_scale': np.float64(6.666523307168185), 'has_evm': False, 'has_cuff': True}
+{'case': 17, 'train_rows': 5640, 'cal_r2': np.float64(0.20664154980318028), 'resid_scale': np.float64(2.2509082698609926), 'has_evm': True, 'has_cuff': True}
+{'case': 19, 'train_rows': 7575, 'cal_r2': np.float64(0.3153678461200332), 'resid_scale': np.float64(2.0604889060651765), 'has_evm': True, 'has_cuff': True}
+{'case': 29, 'train_rows': 5046, 'cal_r2': np.float64(0.3313708002831578), 'resid_scale': np.float64(4.043794293980205), 'has_evm': True, 'has_cuff': True}
+{'case': 34, 'train_rows': 6420, 'cal_r2': np.float64(0.0698979507739299), 'resid_scale': np.float64(5.352256775119696), 'has_evm': True, 'has_cuff': True}
+{'case': 55, 'train_rows': 5706, 'cal_r2': np.float64(-0.15397619002604412), 'resid_scale': np.float64(3.685616004735184), 'has_evm': True, 'has_cuff': True}
+{'case': 60, 'train_rows': 3594, 'cal_r2': np.float64(0.4524197629432647), 'resid_scale': np.float64(2.9934277861065284), 'has_evm': True, 'has_cuff': True}
+
+Twin diagnostics (R2 of the twin on the calibration segment):
+ case  train_rows  cal_r2  resid_scale  has_evm  has_cuff
+   10        5423   0.302       11.224    False      True
+   16        3333  -0.269        6.667    False      True
+   17        5640   0.207        2.251     True      True
+   19        7575   0.315        2.060     True      True
+   29        5046   0.331        4.044     True      True
+   34        6420   0.070        5.352     True      True
+   55        5706  -0.154        3.686     True      True
+   60        3594   0.452        2.993     True      True
+
+BP detection at matched 10% FPR by number of compromised devices (mean over cases, SD multiples, profiles):
+detector  Redundancy  Learned  Twin  Combined (max)  Redundancy OR Twin (5%+5%)  Redundancy OR Twin OR Learned (3.3% each)
+k                                                                                                                         
+1               0.26     0.20  0.42            0.30                        0.31                                       0.27
+2               0.23     0.29  0.32            0.31                        0.26                                       0.28
+3               0.19     0.36  0.19            0.34                        0.20                                       0.29
+
+BP detection with ONE compromised device (arterial line), by attack size in SD:
+detector  Redundancy  Learned  Twin  Combined (max)  Redundancy OR Twin (5%+5%)  Redundancy OR Twin OR Learned (3.3% each)
+mag                                                                                                                       
+0.25            0.10     0.11  0.15            0.14                        0.10                                       0.10
+0.50            0.11     0.14  0.33            0.18                        0.18                                       0.17
+1.00            0.31     0.19  0.50            0.16                        0.23                                       0.12
+2.00            0.54     0.37  0.71            0.73                        0.74                                       0.68
+
+BP attack cost, attacker free to choose the profile (evasion = detection <= 20%):
+                                           evasion_found  mean_cost
+detector                                                           
+Redundancy                                          1.00       1.09
+Learned                                             0.75       1.04
+Twin                                                0.84       1.30
+Combined (max)                                      0.78       1.12
+Redundancy OR Twin (5%+5%)                          0.91       1.14
+Redundancy OR Twin OR Learned (3.3% each)           0.88       1.11
+
+BP attack cost by attack size (mean cost / evasion found):
+                   mean                                                                                                   <lambda_0>                                                                                              
+detector Combined (max) Learned Redundancy Redundancy OR Twin (5%+5%) Redundancy OR Twin OR Learned (3.3% each)  Twin Combined (max) Learned Redundancy Redundancy OR Twin (5%+5%) Redundancy OR Twin OR Learned (3.3% each)  Twin
+mag                                                                                                                                                                                                                               
+0.25               1.00    1.00       1.00                       1.00                                      1.00  1.00           1.00    1.00        1.0                       1.00                                       1.0  1.00
+0.50               1.14    1.00       1.00                       1.12                                      1.12  1.38           0.88    0.88        1.0                       1.00                                       1.0  1.00
+1.00               1.00    1.17       1.00                       1.12                                      1.00  1.50           0.88    0.75        1.0                       1.00                                       1.0  1.00
+2.00               1.67    1.00       1.38                       1.40                                      1.50  1.33           0.38    0.38        1.0                       0.62                                       0.5  0.38

@@ -1,0 +1,577 @@
+detector,case,mag,profile,cost,cheapest_set
+Redundancy,10,0.25,drift_60s,1.0,ART
+Redundancy,16,0.25,drift_60s,1.0,ART
+Redundancy,17,0.25,drift_60s,1.0,ART
+Redundancy,19,0.25,drift_60s,1.0,ART
+Redundancy,29,0.25,drift_60s,1.0,ART
+Redundancy,34,0.25,drift_60s,1.0,ART
+Redundancy,55,0.25,drift_60s,1.0,ART
+Redundancy,60,0.25,drift_60s,1.0,ART
+Learned,10,0.25,drift_60s,1.0,ART
+Learned,16,0.25,drift_60s,1.0,ART
+Learned,17,0.25,drift_60s,1.0,ART
+Learned,19,0.25,drift_60s,1.0,ART
+Learned,29,0.25,drift_60s,1.0,ART
+Learned,34,0.25,drift_60s,1.0,ART
+Learned,55,0.25,drift_60s,1.0,ART
+Learned,60,0.25,drift_60s,1.0,ART
+Twin,10,0.25,drift_60s,1.0,ART
+Twin,16,0.25,drift_60s,1.0,ART
+Twin,17,0.25,drift_60s,1.0,ART
+Twin,19,0.25,drift_60s,1.0,ART
+Twin,29,0.25,drift_60s,1.0,ART
+Twin,34,0.25,drift_60s,1.0,ART
+Twin,55,0.25,drift_60s,1.0,ART
+Twin,60,0.25,drift_60s,1.0,ART
+Combined (max),10,0.25,drift_60s,1.0,ART
+Combined (max),16,0.25,drift_60s,1.0,ART
+Combined (max),17,0.25,drift_60s,1.0,ART
+Combined (max),19,0.25,drift_60s,1.0,ART
+Combined (max),29,0.25,drift_60s,1.0,ART
+Combined (max),34,0.25,drift_60s,1.0,ART
+Combined (max),55,0.25,drift_60s,1.0,ART
+Combined (max),60,0.25,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),10,0.25,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),16,0.25,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),17,0.25,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),19,0.25,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),29,0.25,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),34,0.25,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),55,0.25,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),60,0.25,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),10,0.25,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,0.25,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,0.25,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,0.25,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),29,0.25,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),34,0.25,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,0.25,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),60,0.25,drift_60s,1.0,ART
+Redundancy,10,0.25,ramp_10s,1.0,ART
+Redundancy,16,0.25,ramp_10s,1.0,ART
+Redundancy,17,0.25,ramp_10s,1.0,ART
+Redundancy,19,0.25,ramp_10s,1.0,ART
+Redundancy,29,0.25,ramp_10s,1.0,ART
+Redundancy,34,0.25,ramp_10s,1.0,ART
+Redundancy,55,0.25,ramp_10s,1.0,ART
+Redundancy,60,0.25,ramp_10s,1.0,ART
+Learned,10,0.25,ramp_10s,1.0,ART
+Learned,16,0.25,ramp_10s,1.0,ART
+Learned,17,0.25,ramp_10s,1.0,ART
+Learned,19,0.25,ramp_10s,1.0,ART
+Learned,29,0.25,ramp_10s,1.0,ART
+Learned,34,0.25,ramp_10s,1.0,ART
+Learned,55,0.25,ramp_10s,1.0,ART
+Learned,60,0.25,ramp_10s,1.0,ART
+Twin,10,0.25,ramp_10s,1.0,ART
+Twin,16,0.25,ramp_10s,1.0,ART
+Twin,17,0.25,ramp_10s,1.0,ART
+Twin,19,0.25,ramp_10s,2.0,ART+EV1000
+Twin,29,0.25,ramp_10s,2.0,ART+EV1000
+Twin,34,0.25,ramp_10s,1.0,ART
+Twin,55,0.25,ramp_10s,1.0,ART
+Twin,60,0.25,ramp_10s,2.0,ART+EV1000
+Combined (max),10,0.25,ramp_10s,1.0,ART
+Combined (max),16,0.25,ramp_10s,1.0,ART
+Combined (max),17,0.25,ramp_10s,1.0,ART
+Combined (max),19,0.25,ramp_10s,1.0,ART
+Combined (max),29,0.25,ramp_10s,1.0,ART
+Combined (max),34,0.25,ramp_10s,1.0,ART
+Combined (max),55,0.25,ramp_10s,1.0,ART
+Combined (max),60,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),10,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),16,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),17,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),19,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),29,0.25,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),34,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),55,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),60,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),10,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),29,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),34,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,0.25,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),60,0.25,ramp_10s,1.0,ART
+Redundancy,10,0.25,step,1.0,ART
+Redundancy,16,0.25,step,1.0,ART
+Redundancy,17,0.25,step,1.0,ART
+Redundancy,19,0.25,step,1.0,ART
+Redundancy,29,0.25,step,1.0,ART
+Redundancy,34,0.25,step,1.0,ART
+Redundancy,55,0.25,step,1.0,ART
+Redundancy,60,0.25,step,1.0,ART
+Learned,10,0.25,step,1.0,ART
+Learned,16,0.25,step,1.0,ART
+Learned,17,0.25,step,1.0,ART
+Learned,19,0.25,step,1.0,ART
+Learned,29,0.25,step,1.0,ART
+Learned,34,0.25,step,1.0,ART
+Learned,55,0.25,step,1.0,ART
+Learned,60,0.25,step,1.0,ART
+Twin,10,0.25,step,1.0,ART
+Twin,16,0.25,step,1.0,ART
+Twin,17,0.25,step,1.0,ART
+Twin,19,0.25,step,2.0,ART+EV1000
+Twin,29,0.25,step,2.0,ART+EV1000
+Twin,34,0.25,step,1.0,ART
+Twin,55,0.25,step,1.0,ART
+Twin,60,0.25,step,2.0,ART+EV1000
+Combined (max),10,0.25,step,1.0,ART
+Combined (max),16,0.25,step,1.0,ART
+Combined (max),17,0.25,step,1.0,ART
+Combined (max),19,0.25,step,1.0,ART
+Combined (max),29,0.25,step,2.0,ART+EV1000
+Combined (max),34,0.25,step,1.0,ART
+Combined (max),55,0.25,step,1.0,ART
+Combined (max),60,0.25,step,1.0,ART
+Redundancy OR Twin (5%+5%),10,0.25,step,1.0,ART
+Redundancy OR Twin (5%+5%),16,0.25,step,1.0,ART
+Redundancy OR Twin (5%+5%),17,0.25,step,1.0,ART
+Redundancy OR Twin (5%+5%),19,0.25,step,1.0,ART
+Redundancy OR Twin (5%+5%),29,0.25,step,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),34,0.25,step,1.0,ART
+Redundancy OR Twin (5%+5%),55,0.25,step,1.0,ART
+Redundancy OR Twin (5%+5%),60,0.25,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),10,0.25,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,0.25,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,0.25,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,0.25,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),29,0.25,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),34,0.25,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,0.25,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),60,0.25,step,1.0,ART
+Redundancy,10,0.5,drift_60s,1.0,ART
+Redundancy,16,0.5,drift_60s,2.0,ART+NIBP
+Redundancy,17,0.5,drift_60s,1.0,ART
+Redundancy,19,0.5,drift_60s,1.0,ART
+Redundancy,29,0.5,drift_60s,1.0,ART
+Redundancy,34,0.5,drift_60s,1.0,ART
+Redundancy,55,0.5,drift_60s,1.0,ART
+Redundancy,60,0.5,drift_60s,1.0,ART
+Learned,10,0.5,drift_60s,1.0,ART
+Learned,16,0.5,drift_60s,1.0,ART
+Learned,17,0.5,drift_60s,1.0,ART
+Learned,19,0.5,drift_60s,1.0,ART
+Learned,29,0.5,drift_60s,1.0,ART
+Learned,34,0.5,drift_60s,,
+Learned,55,0.5,drift_60s,1.0,ART
+Learned,60,0.5,drift_60s,1.0,ART
+Twin,10,0.5,drift_60s,1.0,ART
+Twin,16,0.5,drift_60s,1.0,ART
+Twin,17,0.5,drift_60s,1.0,ART
+Twin,19,0.5,drift_60s,2.0,ART+EV1000
+Twin,29,0.5,drift_60s,2.0,ART+EV1000
+Twin,34,0.5,drift_60s,1.0,ART
+Twin,55,0.5,drift_60s,1.0,ART
+Twin,60,0.5,drift_60s,2.0,ART+EV1000
+Combined (max),10,0.5,drift_60s,1.0,ART
+Combined (max),16,0.5,drift_60s,1.0,ART
+Combined (max),17,0.5,drift_60s,1.0,ART
+Combined (max),19,0.5,drift_60s,1.0,ART
+Combined (max),29,0.5,drift_60s,2.0,ART+EV1000
+Combined (max),34,0.5,drift_60s,,
+Combined (max),55,0.5,drift_60s,1.0,ART
+Combined (max),60,0.5,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),10,0.5,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),16,0.5,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),17,0.5,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),19,0.5,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),29,0.5,drift_60s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),34,0.5,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),55,0.5,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),60,0.5,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),10,0.5,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,0.5,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,0.5,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,0.5,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),29,0.5,drift_60s,2.0,ART+EV1000
+Redundancy OR Twin OR Learned (3.3% each),34,0.5,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,0.5,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),60,0.5,drift_60s,1.0,ART
+Redundancy,10,0.5,ramp_10s,1.0,ART
+Redundancy,16,0.5,ramp_10s,2.0,ART+NIBP
+Redundancy,17,0.5,ramp_10s,1.0,ART
+Redundancy,19,0.5,ramp_10s,1.0,ART
+Redundancy,29,0.5,ramp_10s,1.0,ART
+Redundancy,34,0.5,ramp_10s,1.0,ART
+Redundancy,55,0.5,ramp_10s,1.0,ART
+Redundancy,60,0.5,ramp_10s,1.0,ART
+Learned,10,0.5,ramp_10s,1.0,ART
+Learned,16,0.5,ramp_10s,1.0,ART
+Learned,17,0.5,ramp_10s,1.0,ART
+Learned,19,0.5,ramp_10s,1.0,ART
+Learned,29,0.5,ramp_10s,1.0,ART
+Learned,34,0.5,ramp_10s,,
+Learned,55,0.5,ramp_10s,1.0,ART
+Learned,60,0.5,ramp_10s,1.0,ART
+Twin,10,0.5,ramp_10s,1.0,ART
+Twin,16,0.5,ramp_10s,1.0,ART
+Twin,17,0.5,ramp_10s,1.0,ART
+Twin,19,0.5,ramp_10s,2.0,ART+EV1000
+Twin,29,0.5,ramp_10s,2.0,ART+EV1000
+Twin,34,0.5,ramp_10s,1.0,ART
+Twin,55,0.5,ramp_10s,1.0,ART
+Twin,60,0.5,ramp_10s,2.0,ART+EV1000
+Combined (max),10,0.5,ramp_10s,1.0,ART
+Combined (max),16,0.5,ramp_10s,1.0,ART
+Combined (max),17,0.5,ramp_10s,1.0,ART
+Combined (max),19,0.5,ramp_10s,2.0,ART+EV1000
+Combined (max),29,0.5,ramp_10s,2.0,ART+EV1000
+Combined (max),34,0.5,ramp_10s,,
+Combined (max),55,0.5,ramp_10s,1.0,ART
+Combined (max),60,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),10,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),16,0.5,ramp_10s,2.0,ART+NIBP
+Redundancy OR Twin (5%+5%),17,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),19,0.5,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),29,0.5,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),34,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),55,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),60,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),10,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,0.5,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin OR Learned (3.3% each),29,0.5,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin OR Learned (3.3% each),34,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,0.5,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),60,0.5,ramp_10s,1.0,ART
+Redundancy,10,0.5,step,1.0,ART
+Redundancy,16,0.5,step,1.0,ART
+Redundancy,17,0.5,step,1.0,ART
+Redundancy,19,0.5,step,1.0,ART
+Redundancy,29,0.5,step,1.0,ART
+Redundancy,34,0.5,step,1.0,ART
+Redundancy,55,0.5,step,1.0,ART
+Redundancy,60,0.5,step,1.0,ART
+Learned,10,0.5,step,1.0,ART
+Learned,16,0.5,step,1.0,ART
+Learned,17,0.5,step,1.0,ART
+Learned,19,0.5,step,1.0,ART
+Learned,29,0.5,step,1.0,ART
+Learned,34,0.5,step,,
+Learned,55,0.5,step,1.0,ART
+Learned,60,0.5,step,1.0,ART
+Twin,10,0.5,step,1.0,ART
+Twin,16,0.5,step,1.0,ART
+Twin,17,0.5,step,1.0,ART
+Twin,19,0.5,step,2.0,ART+EV1000
+Twin,29,0.5,step,2.0,ART+EV1000
+Twin,34,0.5,step,1.0,ART
+Twin,55,0.5,step,1.0,ART
+Twin,60,0.5,step,2.0,ART+EV1000
+Combined (max),10,0.5,step,1.0,ART
+Combined (max),16,0.5,step,1.0,ART
+Combined (max),17,0.5,step,1.0,ART
+Combined (max),19,0.5,step,2.0,ART+EV1000
+Combined (max),29,0.5,step,2.0,ART+EV1000
+Combined (max),34,0.5,step,,
+Combined (max),55,0.5,step,1.0,ART
+Combined (max),60,0.5,step,1.0,ART
+Redundancy OR Twin (5%+5%),10,0.5,step,1.0,ART
+Redundancy OR Twin (5%+5%),16,0.5,step,2.0,ART+NIBP
+Redundancy OR Twin (5%+5%),17,0.5,step,1.0,ART
+Redundancy OR Twin (5%+5%),19,0.5,step,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),29,0.5,step,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),34,0.5,step,1.0,ART
+Redundancy OR Twin (5%+5%),55,0.5,step,1.0,ART
+Redundancy OR Twin (5%+5%),60,0.5,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),10,0.5,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,0.5,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,0.5,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,0.5,step,2.0,ART+EV1000
+Redundancy OR Twin OR Learned (3.3% each),29,0.5,step,2.0,ART+EV1000
+Redundancy OR Twin OR Learned (3.3% each),34,0.5,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,0.5,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),60,0.5,step,1.0,ART
+Redundancy,10,1.0,drift_60s,1.0,ART
+Redundancy,16,1.0,drift_60s,1.0,ART
+Redundancy,17,1.0,drift_60s,1.0,ART
+Redundancy,19,1.0,drift_60s,1.0,ART
+Redundancy,29,1.0,drift_60s,1.0,ART
+Redundancy,34,1.0,drift_60s,1.0,ART
+Redundancy,55,1.0,drift_60s,1.0,ART
+Redundancy,60,1.0,drift_60s,1.0,ART
+Learned,10,1.0,drift_60s,1.0,ART
+Learned,16,1.0,drift_60s,2.0,ART+NIBP
+Learned,17,1.0,drift_60s,1.0,ART
+Learned,19,1.0,drift_60s,,
+Learned,29,1.0,drift_60s,1.0,ART
+Learned,34,1.0,drift_60s,1.0,ART
+Learned,55,1.0,drift_60s,,
+Learned,60,1.0,drift_60s,1.0,ART
+Twin,10,1.0,drift_60s,1.0,ART
+Twin,16,1.0,drift_60s,1.0,ART
+Twin,17,1.0,drift_60s,2.0,ART+EV1000
+Twin,19,1.0,drift_60s,2.0,ART+EV1000
+Twin,29,1.0,drift_60s,2.0,ART+EV1000
+Twin,34,1.0,drift_60s,1.0,ART
+Twin,55,1.0,drift_60s,1.0,ART
+Twin,60,1.0,drift_60s,2.0,ART+EV1000
+Combined (max),10,1.0,drift_60s,1.0,ART
+Combined (max),16,1.0,drift_60s,1.0,ART
+Combined (max),17,1.0,drift_60s,1.0,ART
+Combined (max),19,1.0,drift_60s,1.0,ART
+Combined (max),29,1.0,drift_60s,1.0,ART
+Combined (max),34,1.0,drift_60s,1.0,ART
+Combined (max),55,1.0,drift_60s,,
+Combined (max),60,1.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),10,1.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),16,1.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),17,1.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),19,1.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),29,1.0,drift_60s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),34,1.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),55,1.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),60,1.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),10,1.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,1.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,1.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,1.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),29,1.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),34,1.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,1.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),60,1.0,drift_60s,1.0,ART
+Redundancy,10,1.0,ramp_10s,1.0,ART
+Redundancy,16,1.0,ramp_10s,2.0,ART+NIBP
+Redundancy,17,1.0,ramp_10s,1.0,ART
+Redundancy,19,1.0,ramp_10s,2.0,ART+EV1000
+Redundancy,29,1.0,ramp_10s,1.0,ART
+Redundancy,34,1.0,ramp_10s,1.0,ART
+Redundancy,55,1.0,ramp_10s,1.0,ART
+Redundancy,60,1.0,ramp_10s,1.0,ART
+Learned,10,1.0,ramp_10s,1.0,ART
+Learned,16,1.0,ramp_10s,2.0,ART+NIBP
+Learned,17,1.0,ramp_10s,1.0,ART
+Learned,19,1.0,ramp_10s,,
+Learned,29,1.0,ramp_10s,1.0,ART
+Learned,34,1.0,ramp_10s,1.0,ART
+Learned,55,1.0,ramp_10s,,
+Learned,60,1.0,ramp_10s,1.0,ART
+Twin,10,1.0,ramp_10s,1.0,ART
+Twin,16,1.0,ramp_10s,1.0,ART
+Twin,17,1.0,ramp_10s,2.0,ART+EV1000
+Twin,19,1.0,ramp_10s,2.0,ART+EV1000
+Twin,29,1.0,ramp_10s,2.0,ART+EV1000
+Twin,34,1.0,ramp_10s,,
+Twin,55,1.0,ramp_10s,1.0,ART
+Twin,60,1.0,ramp_10s,2.0,ART+EV1000
+Combined (max),10,1.0,ramp_10s,1.0,ART
+Combined (max),16,1.0,ramp_10s,1.0,ART
+Combined (max),17,1.0,ramp_10s,2.0,ART+EV1000
+Combined (max),19,1.0,ramp_10s,1.0,ART
+Combined (max),29,1.0,ramp_10s,1.0,ART
+Combined (max),34,1.0,ramp_10s,,
+Combined (max),55,1.0,ramp_10s,,
+Combined (max),60,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),10,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),16,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),17,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),19,1.0,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),29,1.0,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),34,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),55,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),60,1.0,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin OR Learned (3.3% each),10,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),29,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),34,1.0,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,1.0,ramp_10s,,
+Redundancy OR Twin OR Learned (3.3% each),60,1.0,ramp_10s,1.0,ART
+Redundancy,10,1.0,step,,
+Redundancy,16,1.0,step,,
+Redundancy,17,1.0,step,1.0,ART
+Redundancy,19,1.0,step,,
+Redundancy,29,1.0,step,1.0,ART
+Redundancy,34,1.0,step,1.0,ART
+Redundancy,55,1.0,step,,
+Redundancy,60,1.0,step,,
+Learned,10,1.0,step,1.0,ART
+Learned,16,1.0,step,2.0,ART+NIBP
+Learned,17,1.0,step,1.0,ART
+Learned,19,1.0,step,,
+Learned,29,1.0,step,1.0,ART
+Learned,34,1.0,step,1.0,ART
+Learned,55,1.0,step,,
+Learned,60,1.0,step,1.0,ART
+Twin,10,1.0,step,1.0,ART
+Twin,16,1.0,step,1.0,ART
+Twin,17,1.0,step,2.0,ART+EV1000
+Twin,19,1.0,step,2.0,ART+EV1000
+Twin,29,1.0,step,2.0,ART+EV1000
+Twin,34,1.0,step,,
+Twin,55,1.0,step,1.0,ART
+Twin,60,1.0,step,2.0,ART+EV1000
+Combined (max),10,1.0,step,1.0,ART
+Combined (max),16,1.0,step,1.0,ART
+Combined (max),17,1.0,step,2.0,ART+EV1000
+Combined (max),19,1.0,step,,
+Combined (max),29,1.0,step,1.0,ART
+Combined (max),34,1.0,step,,
+Combined (max),55,1.0,step,,
+Combined (max),60,1.0,step,1.0,ART
+Redundancy OR Twin (5%+5%),10,1.0,step,1.0,ART
+Redundancy OR Twin (5%+5%),16,1.0,step,1.0,ART
+Redundancy OR Twin (5%+5%),17,1.0,step,1.0,ART
+Redundancy OR Twin (5%+5%),19,1.0,step,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),29,1.0,step,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),34,1.0,step,1.0,ART
+Redundancy OR Twin (5%+5%),55,1.0,step,1.0,ART
+Redundancy OR Twin (5%+5%),60,1.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),10,1.0,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,1.0,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,1.0,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),19,1.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),29,1.0,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),34,1.0,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),55,1.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),60,1.0,step,1.0,ART
+Redundancy,10,2.0,drift_60s,1.0,ART
+Redundancy,16,2.0,drift_60s,1.0,ART
+Redundancy,17,2.0,drift_60s,1.0,ART
+Redundancy,19,2.0,drift_60s,2.0,ART+EV1000
+Redundancy,29,2.0,drift_60s,2.0,ART+EV1000
+Redundancy,34,2.0,drift_60s,1.0,ART
+Redundancy,55,2.0,drift_60s,2.0,ART+EV1000
+Redundancy,60,2.0,drift_60s,1.0,ART
+Learned,10,2.0,drift_60s,,
+Learned,16,2.0,drift_60s,,
+Learned,17,2.0,drift_60s,1.0,ART
+Learned,19,2.0,drift_60s,,
+Learned,29,2.0,drift_60s,1.0,ART
+Learned,34,2.0,drift_60s,1.0,ART
+Learned,55,2.0,drift_60s,,
+Learned,60,2.0,drift_60s,,
+Twin,10,2.0,drift_60s,1.0,ART
+Twin,16,2.0,drift_60s,,
+Twin,17,2.0,drift_60s,2.0,ART+EV1000
+Twin,19,2.0,drift_60s,,
+Twin,29,2.0,drift_60s,,
+Twin,34,2.0,drift_60s,,
+Twin,55,2.0,drift_60s,1.0,ART
+Twin,60,2.0,drift_60s,,
+Combined (max),10,2.0,drift_60s,1.0,ART
+Combined (max),16,2.0,drift_60s,,
+Combined (max),17,2.0,drift_60s,2.0,ART+EV1000
+Combined (max),19,2.0,drift_60s,,
+Combined (max),29,2.0,drift_60s,,
+Combined (max),34,2.0,drift_60s,,
+Combined (max),55,2.0,drift_60s,,
+Combined (max),60,2.0,drift_60s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),10,2.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),16,2.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),17,2.0,drift_60s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),19,2.0,drift_60s,,
+Redundancy OR Twin (5%+5%),29,2.0,drift_60s,,
+Redundancy OR Twin (5%+5%),34,2.0,drift_60s,,
+Redundancy OR Twin (5%+5%),55,2.0,drift_60s,1.0,ART
+Redundancy OR Twin (5%+5%),60,2.0,drift_60s,2.0,ART+EV1000
+Redundancy OR Twin OR Learned (3.3% each),10,2.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,2.0,drift_60s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,2.0,drift_60s,2.0,ART+EV1000
+Redundancy OR Twin OR Learned (3.3% each),19,2.0,drift_60s,,
+Redundancy OR Twin OR Learned (3.3% each),29,2.0,drift_60s,,
+Redundancy OR Twin OR Learned (3.3% each),34,2.0,drift_60s,,
+Redundancy OR Twin OR Learned (3.3% each),55,2.0,drift_60s,,
+Redundancy OR Twin OR Learned (3.3% each),60,2.0,drift_60s,2.0,ART+EV1000
+Redundancy,10,2.0,ramp_10s,1.0,ART
+Redundancy,16,2.0,ramp_10s,2.0,ART+NIBP
+Redundancy,17,2.0,ramp_10s,1.0,ART
+Redundancy,19,2.0,ramp_10s,2.0,ART+EV1000
+Redundancy,29,2.0,ramp_10s,2.0,ART+EV1000
+Redundancy,34,2.0,ramp_10s,2.0,ART+NIBP
+Redundancy,55,2.0,ramp_10s,2.0,ART+EV1000
+Redundancy,60,2.0,ramp_10s,1.0,ART
+Learned,10,2.0,ramp_10s,,
+Learned,16,2.0,ramp_10s,,
+Learned,17,2.0,ramp_10s,1.0,ART
+Learned,19,2.0,ramp_10s,,
+Learned,29,2.0,ramp_10s,1.0,ART
+Learned,34,2.0,ramp_10s,1.0,ART
+Learned,55,2.0,ramp_10s,,
+Learned,60,2.0,ramp_10s,,
+Twin,10,2.0,ramp_10s,1.0,ART
+Twin,16,2.0,ramp_10s,,
+Twin,17,2.0,ramp_10s,2.0,ART+EV1000
+Twin,19,2.0,ramp_10s,,
+Twin,29,2.0,ramp_10s,,
+Twin,34,2.0,ramp_10s,,
+Twin,55,2.0,ramp_10s,1.0,ART
+Twin,60,2.0,ramp_10s,,
+Combined (max),10,2.0,ramp_10s,1.0,ART
+Combined (max),16,2.0,ramp_10s,,
+Combined (max),17,2.0,ramp_10s,,
+Combined (max),19,2.0,ramp_10s,,
+Combined (max),29,2.0,ramp_10s,,
+Combined (max),34,2.0,ramp_10s,,
+Combined (max),55,2.0,ramp_10s,,
+Combined (max),60,2.0,ramp_10s,,
+Redundancy OR Twin (5%+5%),10,2.0,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),16,2.0,ramp_10s,1.0,ART
+Redundancy OR Twin (5%+5%),17,2.0,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),19,2.0,ramp_10s,,
+Redundancy OR Twin (5%+5%),29,2.0,ramp_10s,,
+Redundancy OR Twin (5%+5%),34,2.0,ramp_10s,,
+Redundancy OR Twin (5%+5%),55,2.0,ramp_10s,2.0,ART+EV1000
+Redundancy OR Twin (5%+5%),60,2.0,ramp_10s,,
+Redundancy OR Twin OR Learned (3.3% each),10,2.0,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,2.0,ramp_10s,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,2.0,ramp_10s,,
+Redundancy OR Twin OR Learned (3.3% each),19,2.0,ramp_10s,,
+Redundancy OR Twin OR Learned (3.3% each),29,2.0,ramp_10s,,
+Redundancy OR Twin OR Learned (3.3% each),34,2.0,ramp_10s,,
+Redundancy OR Twin OR Learned (3.3% each),55,2.0,ramp_10s,,
+Redundancy OR Twin OR Learned (3.3% each),60,2.0,ramp_10s,,
+Redundancy,10,2.0,step,,
+Redundancy,16,2.0,step,,
+Redundancy,17,2.0,step,,
+Redundancy,19,2.0,step,,
+Redundancy,29,2.0,step,,
+Redundancy,34,2.0,step,,
+Redundancy,55,2.0,step,,
+Redundancy,60,2.0,step,,
+Learned,10,2.0,step,,
+Learned,16,2.0,step,,
+Learned,17,2.0,step,1.0,ART
+Learned,19,2.0,step,,
+Learned,29,2.0,step,1.0,ART
+Learned,34,2.0,step,1.0,ART
+Learned,55,2.0,step,,
+Learned,60,2.0,step,,
+Twin,10,2.0,step,1.0,ART
+Twin,16,2.0,step,,
+Twin,17,2.0,step,2.0,ART+EV1000
+Twin,19,2.0,step,,
+Twin,29,2.0,step,,
+Twin,34,2.0,step,,
+Twin,55,2.0,step,1.0,ART
+Twin,60,2.0,step,,
+Combined (max),10,2.0,step,1.0,ART
+Combined (max),16,2.0,step,,
+Combined (max),17,2.0,step,,
+Combined (max),19,2.0,step,,
+Combined (max),29,2.0,step,,
+Combined (max),34,2.0,step,,
+Combined (max),55,2.0,step,,
+Combined (max),60,2.0,step,,
+Redundancy OR Twin (5%+5%),10,2.0,step,,
+Redundancy OR Twin (5%+5%),16,2.0,step,,
+Redundancy OR Twin (5%+5%),17,2.0,step,,
+Redundancy OR Twin (5%+5%),19,2.0,step,,
+Redundancy OR Twin (5%+5%),29,2.0,step,,
+Redundancy OR Twin (5%+5%),34,2.0,step,,
+Redundancy OR Twin (5%+5%),55,2.0,step,,
+Redundancy OR Twin (5%+5%),60,2.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),10,2.0,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),16,2.0,step,1.0,ART
+Redundancy OR Twin OR Learned (3.3% each),17,2.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),19,2.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),29,2.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),34,2.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),55,2.0,step,,
+Redundancy OR Twin OR Learned (3.3% each),60,2.0,step,,
