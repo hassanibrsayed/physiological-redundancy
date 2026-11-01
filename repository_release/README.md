@@ -1,4 +1,4 @@
-# Cross-device physiological redundancy and the cost of false data injection in perioperative monitoring
+# Cross-Sources physiological redundancy and the cost of false data injection in perioperative monitoring
 
 Code, result files and logs for the manuscript *How Many Devices Must an Attacker Control? Cross-Device Physiological
 Redundancy and the Cost of False Data Injection in Perioperative Monitoring*.
